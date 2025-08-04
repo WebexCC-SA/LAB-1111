@@ -2,19 +2,28 @@
 
 ## Learning Objectives
 
-This lab will give you an introduction to ...
+By the end of the lab, participants will:   
+
+1. Understand the Webex Suite workloads and how they provide solutions across industries and personas.   
+
+2. Configure and optimize each workload (Meetings, Messaging, Calling, Events, Vidcast, Slido, Whiteboard, etc.) using Control Hub.   
+
+3. Tailor deployments to meet the needs of different personas and organizational roles.   
 
 ## Disclaimer
 
-Although the lab design and configuration examples could be used as a reference, for design related questions please contact your representative at Cisco, or a Cisco partner.
+Here's a disclaimer. Thanks.
 
 ## Lab Access
 
-From your workstation open an RDP (Remote Desktop) session to the following host named "wkst1":
+Open Chrome, Firefox, or Edge and browse to [Control Hub](https://admin.webex.com)
+Login using the user account associated with your student number. Your student number will be provided by your instructor.
 
-- IP: 1.2.3.4
-- Username: corp\demouser
-- Password: C1sco12345
+insert log in info here:
+	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 ## Getting Started
 
