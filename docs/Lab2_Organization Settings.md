@@ -1,8 +1,9 @@
 # Lab X- Calling Settings
 
 
-#Service Settings
-#####Control Hub->Services-> Calling -> Service Settings
+##Service Settings
+Control Hub -> Services -> Calling -> Service Settings
+
 Put a blurb here about service settings
 
 | Service Settings| Can Override | On by Default |
@@ -11,14 +12,15 @@ Put a blurb here about service settings
 | Manage User Calling Data – point out a couple of simple things to edit in the bulk file | Yes, with CSV | N/A |
 | Device Line Key templates- Create line key for 9851 to use later when we add devices | With device template | N/A |
 
-##<span style="color:blue"><b>Lab Activity</span></b>
+###<span style="color:blue"><b>Lab Activity</span></b>
 |Control Hub Navigation|Task|
 | --- | --- |
 | Services-> Calling-> Service settings-> Voicemail | IT security policies dictate that voicemail passwords be reset at a regular interval.<br>Set the number of days after which passcode expires to 30 |
 |Services-> Calling -> Service settings -> Line Key Templates | All users will have 9851 phones. They will all need to have a speed dial and a second line configured on their phones. <br> Configure line key template - info here.|
 
-#Client Settings
-#####Services-> Calling -> Client Settings
+##Client Settings
+Control Hub -> Services-> Calling -> Client Settings
+
 Put a blurb here about Client settings
 
 | Client Settings | Override | On by default |
@@ -28,7 +30,7 @@ Put a blurb here about Client settings
 | Hide Calling Settings | At user level only | All options on |
 
 
-##<span style="color:blue"><b>Lab Activity</span></b>
+###<span style="color:blue"><b>Lab Activity</span></b>
 
 | Navigation| Task |
 |---|---|
@@ -38,8 +40,9 @@ Put a blurb here about Client settings
 !!! note    
     You may need to reload the page or log out/back in. Changes could take a few minutes.
 
-#Templates
-#####Services-> Calling -> Client Settings -> Templates
+##Templates
+Control Hub -> Services-> Calling -> Client Settings -> Templates
+
 Put a blurb here about Templates
 
 | Setting| On by default |
@@ -48,7 +51,7 @@ Put a blurb here about Templates
 | Microsoft Team Integration – off | No |
 | Emergency call disclaimer - off | No |
 
-##<span style="color:blue"><b>Lab Activity</span></b>
+###<span style="color:blue"><b>Lab Activity</span></b>
 
 | Navigation| Task |
 |---|---|

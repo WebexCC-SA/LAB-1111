@@ -89,7 +89,12 @@ nav:
   - Lab:
       - Overview: overview.md
       - Lab 1 - Getting Started: lab1_getting_started.md
-      - Lab X - Calling Setting : LabX_Calling_Settings .md
+      - Lab 2 - Organization Settings: Lab2_Organization Settings.md
+      - Lab 3 - Messaging : Lab3_Messaging.md
+      - Lab 4 - Meetings : Lab4_Meetings.md
+      - Lab 5 - Calling : Lab5_Calling.md
+      - Lab 6 - Vidcast: Lab6_Vidcast.md
+      - Lab 7 - Devices: Lab7_Devices.md
       - Conclusion: conclusion.md
   - Topologies: topologies.md
   - How to use this guide:
