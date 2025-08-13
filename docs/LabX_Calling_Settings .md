@@ -27,6 +27,17 @@ Put a blurb here about Client settings
 | DND Status Sync | No | Yes |
 | Hide Calling Settings | At user level only | All options on |
 
+
+##<span style="color:blue"><b>Lab Activity</span></b>
+
+| Navigation| Task |
+|---|---|
+|[user.webex.com](https://user.webex.com) -> Settings -> Calling| In a new tab: Log in as Charles Holland (your admin log in credentials)<br>Call Settings – Note that the Block Caller ID setting is available<br>Voicemail – Note all voicemail settings are available.<br> <br>|
+|[Control Hub](https://admin.webex.com)-> Services-> Calling -> Client Settings| Company policy dictates that users cannot block their caller id or manage any of their voicemail settings in the Webex App and/or [User Hub](https://user.webex.com)<br><br>Disable: Block Caller ID<br>Voicemail: Disable all voicemail features|
+|[user.webex.com](https://user.webex.com)-> Settings -> Calling|Check that the settings have been removed when you are logged in as Charles Holland
+!!! note    
+    You may need to reload the page or log out/back in. Changes could take a few minutes.
+
 #Templates
 #####Services-> Calling -> Client Settings -> Templates
 Put a blurb here about Templates
@@ -41,6 +52,5 @@ Put a blurb here about Templates
 
 | Navigation| Task |
 |---|---|
-| user.webex.com -> Settings -> Calling| In a new tab: Log in as Charles Holland (your admin log in credentials)<br>Call Settings – Note that the Block Caller ID setting is available<br>Voicemail – Note all voicemail settings are available.<br> <br>Company policy dictates that users cannot block their caller id or manage any of their voicemail settings in the Webex App and/or User Hub (user.webex.com) <br><br>In Control Hub:<br>Call settings – disable Block Caller ID<br>Voicemail – disable all voicemail features<br><br>Go to User.webex.com, log in as Charles Holland (your admin log in credentials) to check that the settings have been removed. <br>(You may need to reload the page or log out/back in. Changes could take a few minutes) |
 | Control Hub->Services-> Calling-> Client settings-> Templates -> Create template | XYZ group should not be able to share content or request/give remote control of shared content.<ol><li>Template name: Disable Sharing</li><li>Disable<ol><li>Request remote control</li><li>Give remote control</li><li>Screen sharing</li></ol></li><li>Apply template to XYZ group</li></ol>
 
