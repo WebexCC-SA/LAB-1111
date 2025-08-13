@@ -89,7 +89,7 @@ nav:
   - Lab:
       - Overview: overview.md
       - Lab 1 - Getting Started: lab1_getting_started.md
-      - Lab X - Calling Settings: LabX_Calling_Settings .md
+      - Lab X - Calling Setting : LabX_Calling_Settings .md
       - Conclusion: conclusion.md
   - Topologies: topologies.md
   - How to use this guide:

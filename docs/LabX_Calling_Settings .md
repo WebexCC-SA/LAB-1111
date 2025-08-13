@@ -1,62 +1,41 @@
 # Lab X- Calling Settings
 
 
-## Available Settings
+#Service Settings
+#####Control Hub->Services-> Calling -> Service Settings
 
-| Calling Settings |
-| --- |
-| Service Settings | Override | On by default |
-| Voicemail – defaults for voicemail forwarding/deletion/passcodes | No | Default Setting |
-| **Manage User Calling Data – point out a couple of simple things to edit in the bulk file | Yes, with CSV | N/A |
-| **Device Line Key templates- Create line key for 9851 to use later when we add devices | With device template | N/A |
-|  |
-| --- |
+| Service Settings| Can Override | On by Default |
+|---|---|---|
+| Voicemail – defaults for voicemail forwarding/deletion/passcodes | No |Default Setting|
+| Manage User Calling Data – point out a couple of simple things to edit in the bulk file | Yes, with CSV | N/A |
+| Device Line Key templates- Create line key for 9851 to use later when we add devices | With device template | N/A |
+
+##<span style="color:red">Lab Activity</span>
+|Control Hub Navigation|Task|
+| --- | --- |
+| Services-> Calling-> Service settings-> Voicemail | IT security policies dictate that voicemail passwords be reset at a regular interval.<br>Set the number of days after which passcode expires to 30 |
+
+#Client Settings
+#####Services-> Calling -> Client Settings
 | Client Settings | Override | On by default |
-| **In-call feature access | With calling template | Yes |
+|---|---|---|
+| In-call feature access | With calling template | Yes |
 | DND Status Sync | No | Yes |
-| **Hide Calling Settings | At user level only | All options on |
-| Calling Template |
-| --- |
-|  |  | On by default |
-| **In-call feature access |  | All options on |
-| Microsoft Team Integration – off |  | No |
-| Emergency call disclaimer - off |  | No |
+| Hide Calling Settings | At user level only | All options on |
 
-Calling Settings Tasks:
+#Templates
+#####Services-> Calling -> Client Settings -> Templates
 
-Client Settings
+| Setting| On by default |
+|---|---|
+| In-call feature access | All options on |
+| Microsoft Team Integration – off | No |
+| Emergency call disclaimer - off | No |
 
-Confirm in-call feature access
+##<span style="color:red">Lab Activity</span>
 
-| User.webex.com -> Settings -> CallingControl Hub -> Services-> Calling-> Client settings-> Hide Calling Settings | In a new tab: Log in as Charles Holland (your admin log in credentials)Call Settings – Note that the Block Caller ID setting is availableVoicemail – Note all voicemail settings are available.Company policy dictates that users cannot block their caller id or manage any of their voicemail settings in the Webex App and/or User Hub (user.webex.com)In control hub:Call settings – disable Block Caller IDVoicemail – disable all voicemail featuresGo to User.webex.com, log in as Charles Holland (your admin log in credentials) to check that the settings have been removed. (You may need to reload the page or log out/back in. Changes could take a few minutes) |
-| --- | --- |
-| Services-> Calling-> Client settings-> Templates -> Create template | XYZ group should not be able to share content or request/give remote control of shared content.Template name: Disable SharingDisable:Request remote controlGive remote controlScreen sharingApply template to XYZ group |
+| Control Hub Navigation| Task |
+|---|---|
+| User.webex.com -> Settings -> Calling| In a new tab: Log in as Charles Holland (your admin log in credentials)<br>Call Settings – Note that the Block Caller ID setting is available<br>Voicemail – Note all voicemail settings are available.<br> <br>Company policy dictates that users cannot block their caller id or manage any of their voicemail settings in the Webex App and/or User Hub (user.webex.com) <br><br>In Control Hub:<br>Call settings – disable Block Caller ID<br>Voicemail – disable all voicemail features<br><br>Go to User.webex.com, log in as Charles Holland (your admin log in credentials) to check that the settings have been removed. <br>(You may need to reload the page or log out/back in. Changes could take a few minutes) |
+| Services-> Calling-> Client settings-> Templates -> Create template | XYZ group should not be able to share content or request/give remote control of shared content.<ol><li>Template name: Disable Sharing</li><li>Disable<ol><li>Request remote control</li><li>Give remote control</li><li>Screen sharing</li></ol></li><li>Apply template to XYZ group</li></ol>
 
-Service Settings
-
-| Services-> Calling-> Service settings-> Voicemail | IT security policies dictate that voicemail passwords be reset at a regular interval.Set the number of days after which passcode expires to 30 |
-| --- | --- |
-My content
-
-!!! note
-    This is a note
-
-Cisco IOS code block:
-
-```ios
-hostname ABC
-interface GigabitEthernet1
- ip address 122.1.1.1
-```
-
-
-
-Image:
-
-<figure markdown>
-  ![ACI](./assets/aci.png){ width="500" }
-</figure>
-
-## Section 2
-
-More content
