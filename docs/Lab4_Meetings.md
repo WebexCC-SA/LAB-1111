@@ -1,7 +1,5 @@
 # Lab X- Calling Settings
-<figure markdown>
-  ![ACI](./template_assets/Table1.png){ align=left }
-</figure>
+![Table1](template_assets/Table1.png)
 
 ##Service Settings
 Control Hub -> Services -> Calling -> Service Settings
