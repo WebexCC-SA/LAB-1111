@@ -44,6 +44,7 @@ extra_javascript:
   - template_assets/js/setInfo.js
 plugins:
   - search
+  - tablereader
   - macros
   # - with-pdf:
   #     cover_title: LABXXX-1234
