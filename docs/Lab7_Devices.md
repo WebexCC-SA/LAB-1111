@@ -1,6 +1,6 @@
 # Lab X- Calling Settings
 
-{{ read_csv('docs/template_assets/Book1.csv') }}
+
 
 ##Service Settings
 Control Hub -> Services -> Calling -> Service Settings
