@@ -1,13 +1,15 @@
 # Lab X- Calling Settings
+<figure markdown>
+  ![ACI](./template_assets/Table1.png){ align=left }
+</figure>
 
-![Table1](/../docs/template_assets/Table1.png)
 ##Service Settings
 Control Hub -> Services -> Calling -> Service Settings
 
 Put a blurb here about service settings
 
 | Service Settings| Can Override | On by Default |
-|---|---|---|
+|:---|:---|:---|
 | Voicemail – defaults for voicemail forwarding/deletion/passcodes | No |Default Setting|
 | Manage User Calling Data – point out a couple of simple things to edit in the bulk file | Yes, with CSV | N/A |
 | Device Line Key templates- Create line key for 9851 to use later when we add devices | With device template | N/A |
