@@ -1,6 +1,8 @@
 # Lab X- Calling Settings
-![Table1](template_assets/Table1.png)
 
+<div class="grid" markdown>
+![Table1](template_assets/Table1.png){style="width:50%"}
+</div>
 ##Service Settings
 Control Hub -> Services -> Calling -> Service Settings
 
