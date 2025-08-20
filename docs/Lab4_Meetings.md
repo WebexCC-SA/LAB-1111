@@ -1,4 +1,4 @@
-# Lab X- Calling Settings
+# Lab X: Meetings Settings
 
 <div class="grid" markdown>
 ![Table1](template_assets/Table1.png){style="width:50%"}
