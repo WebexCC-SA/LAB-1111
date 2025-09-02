@@ -88,7 +88,7 @@ nav:
   - Home: index.md
   - Lab:
       - Overview: overview.md
-      - Lab 1 - Lab 1 - Organization Settings: Lab1_OrganizationSettings.md
+      - Lab 1 - Organization Settings: Lab1_OrganizationSettings.md
       - Lab 2 - Organization Settings: Lab2_Organization Settings.md
       - Lab 3 - Messaging : Lab3_Messaging.md
       - Lab 4 - Meetings : Lab4_Meetings.md
