@@ -89,12 +89,13 @@ nav:
   - Lab:
       - Overview: overview.md
       - Lab 1 - Getting to Know Control Hub: Lab1_GettingtoknowControlHub.md
-      - Lab 2 - Organization Settings & Template: Lab2_OrganizationSettings.md
-      - Lab 3 - Messaging : Lab3_Messaging.md
-      - Lab 4 - Meetings : Lab4_Meetings.md
-      - Lab 5 - Calling : Lab5_Calling.md
-      - Lab 6 - Vidcast: Lab6_Vidcast.md
-      - Lab 7 - Devices: Lab7_Devices.md
+      - Lab 2 - First Steps to Optimization: Lab2_Foundations.md
+      - Lab 3 - Organization Settings & Template: Lab2_OrganizationSettings.md
+      - Lab 4 - Messaging : Lab3_Messaging.md
+      - Lab 5 - Meetings : Lab4_Meetings.md
+      - Lab 6 - Calling : Lab5_Calling.md
+      - Lab 7 - Vidcast: Lab6_Vidcast.md
+      - Lab 8 - Workspaces & Devices: Lab7_Devices.md
       - Wrap Up: conclusion.md
   - How to use this guide:
       - Setting up and using the tool:

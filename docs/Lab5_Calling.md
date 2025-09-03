@@ -1,59 +1,13 @@
-# Lab X- Calling Settings
+# Lab 5 - Calling Settings
+[**Control Hub**](http://admin.webex.com/) **> Services > Calling > Service settings**
 
+<table><tbody><tr><td><p><strong>Call Block List</strong></p><ul><li>Enable: Block calls from hidden/private numbers</li></ul></td><td colspan="2"><ul>Employees have complained about the number of spam calls they receive.</ul></td></tr><tr><td><p><strong>Voicemail</strong></p><ul><li>Set the number of days after which passcode expires to 30</li></ul></td><td colspan="2"><ul>IT security policies dictate that voicemail passwords be reset at a regular interval.</ul></td></tr><tr><td><p><strong>Call Recording</strong></p><ul><li>Turn on Compliance announcements</li></ul></td><td colspan="2"><ul>Enabling call recording announcements ensures participants are informed, supporting legal compliance and transparency.</ul></td></tr><tr><td colspan="2"><ul><strong>Manage User Calling Data</strong><p>Bulk change Webex Application access and voicemail enablement for Contractors
+<li>All Locations &gt; Download Data</li><li>Specific user data for download:</li><ul><li>Applications</li><li>Voicemail</ul></li><li>Once download is initiated, go to View upload history tasks to download the most recent file</li><li>Edit the CSV file</li><li>Kellie Melby, Eric Steele, Stefan Mauk</li><ul><li>Column B: Voicemail enabled – FALSE</li><li>Column AU Mobile Client enabled – FALSE</li><li>Column AV Tablet client enabled FALSE</ul></li><li>All employees</li><ul><li>Column GP Call Recording enabled TRUE</ul></li><li>Upload CSV data</li></ul></td><td><ul>To reduce security risk and data breech concerns, contractors should not be able to log into Webex on their mobile devices or tablets.They do not need voicemail.</ul></td></tr><tr><td><ul><strong>Management &gt; Users &gt; Kellie Melby &gt; Calling</strong><li>Confirm the following:</li><li>Voicemail</li><li>Disabled</li><li>User call experience &gt; Application line assignment &gt; Webex application assignments</li><li>Only Web and Desktop enabled</li><li>Call Recording enabled</li></ul></td><td colspan="2"><ul>Spot check your import</ul></td></tr></tbody></table>
 
-##Service Settings
-Control Hub -> Services -> Calling -> Service Settings
+[**Control Hub**](http://admin.webex.com/) **> Services > Calling > Client settings**
 
-Put a blurb here about service settings
+<table><tbody><tr><td><p><strong>Hide Calling Settings</strong></p><ul><li>Call Settings &gt; Disable Block caller ID (Check default)</li><li>Voicemail &gt; Disable all (check what voicemail feature means)</li></ul></td><td><ul>Company policy dictates that users cannot block their caller id or manage any of their voicemail settings in the Webex App and/or User Hub (user.webex.com)</ul></td></tr><tr><td><p><strong>Templates &gt; Create template</strong></p><ul><li>Template name: Disable Sharing</li><li>Disable:</li><li>Request remote control</li><li>Give remote control</li><li>Screen sharing</li><li>Apply template to Contractor group</li></ul></td><td><ul>Contractor group should not be able to share content or request/give remote control of shared content.</ul></td></tr></tbody></table>
 
-| Service Settings| Can Override | On by Default |
-|---|---|---|
-| Voicemail – defaults for voicemail forwarding/deletion/passcodes | No |Default Setting|
-| Manage User Calling Data – point out a couple of simple things to edit in the bulk file | Yes, with CSV | N/A |
-| Device Line Key templates- Create line key for 9851 to use later when we add devices | With device template | N/A |
+### Think about it
 
-###<span style="color:blue"><b>Lab Activity</span></b>
-|Control Hub Navigation|Task|
-| --- | --- |
-| Services-> Calling-> Service settings-> Voicemail | IT security policies dictate that voicemail passwords be reset at a regular interval.<br>Set the number of days after which passcode expires to 30 |
-|Services-> Calling -> Service settings -> Line Key Templates | All users will have 9851 phones. They will all need to have a speed dial and a second line configured on their phones. <br> Configure line key template - info here.|
-
-##Client Settings
-Control Hub -> Services-> Calling -> Client Settings
-
-Put a blurb here about Client settings
-
-| Client Settings | Override | On by default |
-|---|---|---|
-| In-call feature access | With calling template | Yes |
-| DND Status Sync | No | Yes |
-| Hide Calling Settings | At user level only | All options on |
-
-
-###<span style="color:blue"><b>Lab Activity</span></b>
-
-| Navigation| Task |
-|---|---|
-|[user.webex.com](https://user.webex.com) -> Settings -> Calling| In a new tab: Log in as Charles Holland (your admin log in credentials)<br>Call Settings – Note that the Block Caller ID setting is available<br>Voicemail – Note all voicemail settings are available.<br> <br>|
-|[Control Hub](https://admin.webex.com)-> Services-> Calling -> Client Settings| Company policy dictates that users cannot block their caller id or manage any of their voicemail settings in the Webex App and/or [User Hub](https://user.webex.com)<br><br>Disable: Block Caller ID<br>Voicemail: Disable all voicemail features|
-|[user.webex.com](https://user.webex.com)-> Settings -> Calling|Check that the settings have been removed when you are logged in as Charles Holland
-!!! note    
-    You may need to reload the page or log out/back in. Changes could take a few minutes.
-
-##Templates
-Control Hub -> Services-> Calling -> Client Settings -> Templates
-
-Put a blurb here about Templates
-
-| Setting| On by default |
-|---|---|
-| In-call feature access | All options on |
-| Microsoft Team Integration – off | No |
-| Emergency call disclaimer - off | No |
-
-###<span style="color:blue"><b>Lab Activity</span></b>
-
-| Navigation| Task |
-|---|---|
-| Control Hub->Services-> Calling-> Client settings-> Templates -> Create template | XYZ group should not be able to share content or request/give remote control of shared content.<ol><li>Template name: Disable Sharing</li><li>Disable<ol><li>Request remote control</li><li>Give remote control</li><li>Screen sharing</li></ol></li><li>Apply template to XYZ group</li></ol>
-
+What settings would you change for your organization? What groups might need restrictions?

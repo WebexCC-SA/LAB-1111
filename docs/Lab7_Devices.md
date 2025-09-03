@@ -52,9 +52,15 @@ Put a blurb here about Templates
 | Microsoft Team Integration – off | No |
 | Emergency call disclaimer - off | No |
 
-###<span style="color:blue"><b>Lab Activity</span></b>
+###<span style="color:blue"><b>Lab Activity</b></span>
+
+
+### **Lab Activity**
 
 | Navigation| Task |
 |---|---|
 | Control Hub->Services-> Calling-> Client settings-> Templates -> Create template | XYZ group should not be able to share content or request/give remote control of shared content.<ol><li>Template name: Disable Sharing</li><li>Disable<ol><li>Request remote control</li><li>Give remote control</li><li>Screen sharing</li></ol></li><li>Apply template to XYZ group</li></ol>
+
+
+
 
