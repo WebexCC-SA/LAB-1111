@@ -89,7 +89,7 @@ nav:
   - Lab:
       - Overview: overview.md
       - Lab 1 - Getting to Know Control Hub: Lab1_GettingtoknowControlHub.md
-      - Lab 2 - Organization Settings: Lab2_OrganizationSettings.md
+      - Lab 2 - Organization Settings & Template: Lab2_OrganizationSettings.md
       - Lab 3 - Messaging : Lab3_Messaging.md
       - Lab 4 - Meetings : Lab4_Meetings.md
       - Lab 5 - Calling : Lab5_Calling.md
