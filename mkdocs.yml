@@ -95,8 +95,7 @@ nav:
       - Lab 5 - Calling : Lab5_Calling.md
       - Lab 6 - Vidcast: Lab6_Vidcast.md
       - Lab 7 - Devices: Lab7_Devices.md
-      - Conclusion: conclusion.md
-  - Topologies: topologies.md
+      - Wrap Up: conclusion.md
   - How to use this guide:
       - Setting up and using the tool:
         - Initial Setup: howToUse/initialSetup.md
