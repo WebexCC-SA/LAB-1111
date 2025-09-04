@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-By the end of the lab, participants will:   
+By the end of the lab, participants will:
 
 1. Understand the Webex Suite workloads and how they provide solutions across industries and personas.   
 
