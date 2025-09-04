@@ -1,4 +1,4 @@
-# Lab 5 - Calling Settings
+# Lab 6 - Calling Settings
 [Control Hub](http://admin.webex.com/) > Services > Calling > Service settings
 
 <table><tbody><tr><td><p><strong>Call Block List</strong></p><ul><li>Enable: Block calls from hidden/private numbers</li></ul></td><td colspan="2"><ul>Employees have complained about the number of spam calls they receive.</ul></td></tr><tr><td><p><strong>Voicemail</strong></p><ul><li>Set the number of days after which passcode expires to 30</li></ul></td><td colspan="2"><ul>IT security policies dictate that voicemail passwords be reset at a regular interval.</ul></td></tr><tr><td><p><strong>Call Recording</strong></p><ul><li>Turn on Compliance announcements</li></ul></td><td colspan="2"><ul>Enabling call recording announcements ensures participants are informed, supporting legal compliance and transparency.</ul></td></tr><tr><td colspan="2"><ul><strong>Manage User Calling Data</strong><p>Bulk change Webex Application access and voicemail enablement for Contractors
@@ -8,6 +8,5 @@
 
 <table><tbody><tr><td><p><strong>Hide Calling Settings</strong></p><ul><li>Call Settings &gt; Disable Block caller ID (Check default)</li><li>Voicemail &gt; Disable all (check what voicemail feature means)</li></ul></td><td><ul>Company policy dictates that users cannot block their caller id or manage any of their voicemail settings in the Webex App and/or User Hub (user.webex.com)</ul></td></tr><tr><td><p><strong>Templates &gt; Create template</strong></p><ul><li>Template name: Disable Sharing</li><li>Disable:</li><li>Request remote control</li><li>Give remote control</li><li>Screen sharing</li><li>Apply template to Contractor group</li></ul></td><td><ul>Contractor group should not be able to share content or request/give remote control of shared content.</ul></td></tr></tbody></table>
 
-## Think about it
 
-What settings would you change for your organization? What groups might need restrictions?
+>![Think About It](template_assets/thinkingcat.png) Think about it: What settings would you change for your organization? What groups might need restrictions?
