@@ -86,8 +86,8 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
   - Home: index.md
-  - Lab:
-      - Overview: overview.md
+  - Overview: overview.md
+  - Activities:
       - Lab 1 - Getting to Know Control Hub: Lab1_GettingtoknowControlHub.md
       - Lab 2 - First Steps to Optimization: Lab2_Foundations.md
       - Lab 3 - Organization Settings & Template: Lab2_OrganizationSettings.md
