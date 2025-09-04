@@ -1,0 +1,29 @@
+﻿General Template,On by default,Override with template
+Management-> Organization Settings,,
+(Relevant to Webex Suite optimization)​,,
+Webex web client’s idle timeout,No,​
+Control Hub’s idle timeout,Yes,​
+Allow bring your own device,Yes,
+External communication,Yes,
+Custom Dictionary,Yes,
+User attributes: Profile Attributes,,​
+Required user attributes,No,
+Editable user attributes,Yes,​
+·       Pronouns,No,
+User attributes: Custom attributes,No,
+People Insights Profiles,Yes,Yes
+Recommended Messages ​,Yes,​
+Cisco AI Assistant & AI features,,​
+"Control Hub, Messaging, Meetings",Yes,​Yes
+Calling,No,​Yes
+AI-generated summaries for recordings,Yes,​
+Personal insights,Yes,​Yes
+Customized branding for Webex,No,​
+Personalized email settings,No,​
+Scheduling in the Webex app,Yes,
+Simultaneous interpretation,No,
+Virtual Background,Yes,Yes
+Digital whiteboard,Yes,Yes
+Webex sidebar: Allow user customization,No,
+Default Landing Screen for Webex App,Yes,
+Carbon Aware Mode,Yes,
