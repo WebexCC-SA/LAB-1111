@@ -97,14 +97,6 @@ nav:
       - Lab 7 - Vidcast: Lab6_Vidcast.md
       - Lab 8 - Workspaces & Devices: Lab7_Devices.md
       - Resources: topologies.md
-      - Wrap up: conclusion.md
-  - How to use this guide:
-      - Setting up and using the tool:
-        - Initial Setup: howToUse/initialSetup.md
-        - Using the tool after the initial setup: howToUse/postInitial.md
-        - Publishing your changes: howToUse/syncChanges.md
-      - Styling and Advanced Features:
-        - Markdown and Other References: howToUse/references.md
-        - Custom Features: howToUse/customFeatures.md
-        - Custom Admonitions: howToUse/admonition.md
+  - Wrap up: conclusion.md
+
  
