@@ -43,5 +43,5 @@ In this lab, you’ll simulate a real-world organization, Pixel Pals Studios, th
 
 ## Resources
 
-[Default Settings vs Template Settings](<template_assets/Default vs Template Settings.pdf>)<br>
+<a href="template_assets/Default vs Template Settings.pdf" target="_blank">Default Settings vs Template Settings</a><br>
 A comprehensive list of Organization, Meetings, Messaging, Calling and Vidcast settings and what can be changed with templates

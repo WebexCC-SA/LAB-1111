@@ -1,6 +1,8 @@
 # Introduction to Control Hub
 
-|[**Control Hub**](http://admin.webex.com/) is new to you (or maybe not!). Let’s explore!|  |
+[**Control Hub**](http://admin.webex.com/) is new to you (or maybe not!). Let’s explore!
+
+| Navigation | Tasks |
 | --- | --- |
 | **Control Hub top navigation bar > Cisco AI Assistant Logo**<br><br>| Ask Cisco AI Assistant:What is the overview page?  |
 | **Overview**<br><br>| Locate the following:<li>Total devices</li><li>Total users</li><li>Webex Adoption Methodology</li>|
