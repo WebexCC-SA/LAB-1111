@@ -1,6 +1,7 @@
 # Lab 4 - Messaging
+<a href="https://webexcc-sa.github.io/LAB-1111//template_assets/Table1.png" target="blank">Overview of Messaging Settings chart</a> (opens in new tab) NEED TO FIX IMAGE
 
-<a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Services > Messaging > Settings > Templates
+**<a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Services > Messaging > Settings > Templates**
 
 <table><tbody><tr><td><p><strong>Create Template</strong></p><ul><li>Template Name: PPS Contractors</li><li>Description: Internal Messaging</li></ul></td><td><ul>Pixel Pals Studios needs to create a messaging template for contractors to ensure these users have only the communication features necessary for their roles while protecting sensitive company information.</ul></td></tr>
 <tr><td colspan="2"><p><strong>Collaboration Restrictions</strong></p></td></tr><tr><td><p><strong>Block file upload on</strong></p><ul><li>Webex web client</li><li>iOS and Android app</li><li>Mac and Windows app</li><li>Bots</li></ul></td><td><p>Blocking file uploads for contractors in Webex Messaging helps maintain security, compliance, and data control.</p></td></tr><tr><td><p><strong>Allow Bitmoji sticker sharing</strong></p><ul><li>Disable</li></ul></td><td><ul>Restricting Bitmojis for contractors helps reduce inappropriate content risks, maintain consistent communication, and ensure compliance with company policies.</ul></td></tr><tr><td><p><strong>Create Template &gt; Apply</strong></p><ul><li>Search “Pixel Pals Contractor”</li><li>Click Done</li></ul></td><td></td></tr></tbody></table>

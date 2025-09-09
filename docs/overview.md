@@ -1,4 +1,7 @@
 # Overview
+## Getting Started
+![Gif](template_assets/HomePageGif.gif)
+Susan to update gif
 
 ## Learning Objectives
 
