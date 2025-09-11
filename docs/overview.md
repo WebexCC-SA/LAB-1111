@@ -1,9 +1,9 @@
 # Overview
-## Getting Started
+## Getting started
 ![Gif](template_assets/HomePageGif.gif)
 Susan to update gif
 
-## Learning Objectives
+## Learning objectives
 
 By the end of the lab, participants will:
 
@@ -29,7 +29,7 @@ Open Chrome, Firefox, or Edge and browse to [Control Hub](https://admin.webex.co
 
 Login using the user account associated with your student number. Your student number will be provided by your instructor.
 
-## Customer Scenario
+## Customer scenario
 ![Pixel Pals Studios Logo](template_assets/PixelPalsHorizontal.png)
 
 <b>Company Name:</b> Pixel Pals Studios
