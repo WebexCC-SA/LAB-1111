@@ -1,4 +1,5 @@
 # Overview
+
 ## Getting started
 ![Gif](template_assets/HomePageGif.gif)
 Susan to update gif
