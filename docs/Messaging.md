@@ -1,5 +1,5 @@
 # Lab 4 - Messaging
-<a href="https://webexcc-sa.github.io/LAB-1111//template_assets/MessagingSettings.png" target="_blank">Messaging Settings chart</a> (opens in new tab) 
+<a href="https://webexcc-sa.github.io/LAB-1111//SettingsImages/MessagingSettings.png" target="_blank">Messaging settings chart</a> (opens in new tab) 
 
 **<a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Services > Messaging > Settings > Templates**
 
@@ -8,4 +8,3 @@
 
 >![Think About It](template_assets/thinkingcat.png) Think about it: What messaging settings would you change for your organization?
 
-![alt text](SettingImages/MessagingSettings.png)
