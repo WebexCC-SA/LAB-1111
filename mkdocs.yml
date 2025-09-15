@@ -86,16 +86,17 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
   - Overview: overview.md
-  - Activities:
-      - Lab 1 - Getting to Know Control Hub: Lab1_GettingtoknowControlHub.md
-      - Lab 2 - First Steps to Optimization: Lab2_Foundations.md
-      - Lab 3 - Organization Settings & Template: Lab2_OrganizationSettings.md
-      - Lab 4 - Messaging : Lab3_Messaging.md
-      - Lab 5 - Meetings : Lab4_Meetings.md
-      - Lab 6 - Calling : Lab5_Calling.md
-      - Lab 7 - Vidcast: Lab6_Vidcast.md
-      - Lab 8 - Workspaces & Devices: Lab7_Devices.md
-      - Lab 9 - User Overrides: Lab8_UserOverrides.md
+  - Lab activities:
+    - Getting started: LabAccess.md
+    - Lab 1 - Getting to Know Control Hub: Lab1_GettingtoknowControlHub.md
+    - Lab 2 - First Steps to Optimization: Lab2_Foundations.md
+    - Lab 3 - Organization Settings & Template: Lab2_OrganizationSettings.md
+    - Lab 4 - Messaging : Lab3_Messaging.md
+    - Lab 5 - Meetings : Lab4_Meetings.md
+    - Lab 6 - Calling : Lab5_Calling.md
+    - Lab 7 - Vidcast: Lab6_Vidcast.md
+    - Lab 8 - Workspaces & Devices: Lab7_Devices.md
+    - Lab 9 - User Overrides: Lab8_UserOverrides.md
   - Wrap up: conclusion.md
 
  

@@ -1,6 +1,6 @@
 # Overview
 
-## Getting started
+## Welcome
 ![Gif](template_assets/HomePageGif.gif)
 Susan to update gif
 
@@ -23,12 +23,6 @@ Participants will leave the lab with:
 
 3.	Resources and tools to monitor adoption, troubleshoot issues, and optimize services. 
 
-
-## Lab access
-
-Open Chrome, Firefox, or Edge and browse to [Control Hub](https://admin.webex.com)
-
-Login using the user account associated with your student number. Your student number will be provided by your instructor.
 
 ## Customer scenario
 ![Pixel Pals Studios Logo](template_assets/PixelPalsHorizontal.png)
