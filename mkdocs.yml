@@ -88,15 +88,15 @@ nav:
   - Overview: overview.md
   - Lab activities:
     - Getting started: LabAccess.md
-    - Lab 1 - Getting to Know Control Hub: CHIntro.md
-    - Lab 2 - First Steps to Optimization: FirstSteps.md
-    - Lab 3 - Organization Settings & Template: OrganizationSettings.md
+    - Lab 1 - Getting to know Control Hub: CHIntro.md
+    - Lab 2 - First steps to optimization: FirstSteps.md
+    - Lab 3 - Organization settings & template: OrganizationSettings.md
     - Lab 4 - Messaging : Messaging.md
     - Lab 5 - Meetings : Meetings.md
     - Lab 6 - Calling : Calling.md
     - Lab 7 - Vidcast: Vidcast.md
-    - Lab 8 - Workspaces & Devices: Devices.md
-    - Lab 9 - User Overrides: UserOverrides.md
+    - Lab 8 - Workspaces & devices: Devices.md
+    - Lab 9 - User overrides: UserOverrides.md
   - Wrap up: conclusion.md
 
  
