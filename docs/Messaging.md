@@ -1,5 +1,5 @@
 # Lab 4 - Messaging
-<a href="https://webexcc-sa.github.io/LAB-1111/docs/SettingsImages/MessagingSettings.png" target="_blank">Messaging Settings chart</a> (opens in new tab) 
+<a href="https://webexcc-sa.github.io/LAB-1111//template_assets/MessagingSettings.png" target="_blank">Messaging Settings chart</a> (opens in new tab) 
 
 **<a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Services > Messaging > Settings > Templates**
 
@@ -7,3 +7,5 @@
 <tr><td colspan="2"><p><strong>Collaboration Restrictions</strong></p></td></tr><tr><td><p><strong>Block file upload on</strong></p><ul><li>Webex web client</li><li>iOS and Android app</li><li>Mac and Windows app</li><li>Bots</li></ul></td><td><p>Blocking file uploads for contractors in Webex Messaging helps maintain security, compliance, and data control.</p></td></tr><tr><td><p><strong>Allow Bitmoji sticker sharing</strong></p><ul><li>Disable</li></ul></td><td><ul>Restricting Bitmojis for contractors helps reduce inappropriate content risks, maintain consistent communication, and ensure compliance with company policies.</ul></td></tr><tr><td><p><strong>Create Template &gt; Apply</strong></p><ul><li>Search “Pixel Pals Contractor”</li><li>Click Done</li></ul></td><td></td></tr></tbody></table>
 
 >![Think About It](template_assets/thinkingcat.png) Think about it: What messaging settings would you change for your organization?
+
+![alt text](SettingImages/MessagingSettings.png)
