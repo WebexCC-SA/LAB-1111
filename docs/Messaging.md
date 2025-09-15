@@ -1,6 +1,7 @@
 # Lab 4 - Messaging
-<a href="https://webexcc-sa.github.io/LAB-1111//SettingsImages/MessagingTable.jpg" target="blank">Overview of Messaging Settings chart</a> (opens in new tab) 
+<a href="https://webexcc-sa.github.io/LAB-1111//SettingsImages/MessagingTable.jpg" target="_blank">Overview of Messaging Settings chart</a> (opens in new tab) 
 
+![alt text](SettingImages/MessagingTable.jpg)
 **<a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Services > Messaging > Settings > Templates**
 
 <table><tbody><tr><td><p><strong>Create Template</strong></p><ul><li>Template Name: PPS Contractors</li><li>Description: Internal Messaging</li></ul></td><td><ul>Pixel Pals Studios needs to create a messaging template for contractors to ensure these users have only the communication features necessary for their roles while protecting sensitive company information.</ul></td></tr>
