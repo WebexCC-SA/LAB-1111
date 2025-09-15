@@ -1,4 +1,4 @@
-# Lab 9 - User Overrides
+# Lab 9 - User overrides
 
 <a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Management
 
