@@ -1,5 +1,5 @@
 # Lab 5 - Meetings Settings
-[Meetings Setting Defaults](template_assets/MeetingSettings){:target="_blank"}
+[Meetings Setting Defaults](template_assets/MeetingSettings.pdf){:target="_blank"}
 
 <a href="https://webexcc-sa.github.io/LAB-1111//template_assets/MeetingsSettings_pdf2.pdf" target="_blank"> Meetings Settings chart</a>
 

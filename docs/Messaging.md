@@ -1,5 +1,5 @@
 # Lab 4 - Messaging
-[Messaging Setting Defaults](template_assets/MessagingSettings){:target="_blank"}
+[Messaging Setting Defaults](template_assets/MessagingSettings.pdf){:target="_blank"}
 
 **<a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Services > Messaging > Settings > Templates**
 

@@ -1,6 +1,6 @@
 # Lab 6 - Calling Settings
 
-[Calling Setting Defaults](template_assets/CallingSettings){:target="_blank"}
+[Calling Setting Defaults](template_assets/CallingSettings.pdf){:target="_blank"}
 
 **<a href="http://admin.webex.com/" target="_blank">Control Hub</a>> Services > Calling > Service settings**
 

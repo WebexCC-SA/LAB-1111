@@ -1,5 +1,5 @@
 # Lab 7 - Vidcast Settings
-<a href="https://webexcc-sa.github.io/LAB-1111//template_assets/Table1.png" target="blank">Overview of Vidcast Settings chart</a> (opens in new tab) NEED TO FIX IMAGE
+[Vidcast Setting Defaults](template_assets/VidcastSettings.pdf){:target="_blank"}
 
 **<a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Services > Vidcast > Templates**
 NEED TO ADJUST NAVIGATION FOR STEPS
