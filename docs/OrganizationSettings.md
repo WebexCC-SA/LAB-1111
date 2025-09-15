@@ -1,6 +1,6 @@
 # Lab 3 - Organization Settings & Template
 ## Organization Settings
-<a href="https://webexcc-sa.github.io/LAB-1111//template_assets/Table1.png" target="blank">Overview of Organization Settings chart</a> (opens in new tab) NEED TO FIX IMAGE
+<a href="https://webexcc-sa.github.io/LAB-1111//template_assets/OrganziationSettings.png" target="blank">Organization Settings</a> (opens in new tab)
 
 **<a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Management &gt; Organization Settings**
 

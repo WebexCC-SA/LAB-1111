@@ -1,5 +1,5 @@
 # Lab 4 - Messaging
-<a href="https://webexcc-sa.github.io/LAB-1111//SettingsImages/MessagingSettings.png" target="_blank">Messaging settings chart</a> (opens in new tab) 
+<a href="https://webexcc-sa.github.io/LAB-1111//template_assets/MessagingSettings.png" target="_blank">Messaging settings chart</a> (opens in new tab) 
 
 **<a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Services > Messaging > Settings > Templates**
 
