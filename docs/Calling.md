@@ -1,6 +1,6 @@
 # Lab 6 - Calling Settings
 
-<a href="https://webexcc-sa.github.io/LAB-1111//SettingImages/MessagingSettings.png" target="blank">Overview of Calling Settings chart</a> (opens in new tab)
+[Calling Setting Defaults](template_assets/CallingSettings){:target="_blank"}
 
 **<a href="http://admin.webex.com/" target="_blank">Control Hub</a>> Services > Calling > Service settings**
 

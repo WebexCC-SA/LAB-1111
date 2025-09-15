@@ -1,5 +1,5 @@
 # Lab 5 - Meetings Settings
-<a href="https://webexcc-sa.github.io/LAB-1111//template_assets/Table1.png" target="blank">Overview of Meetings Settings chart</a> (opens in new tab) NEED TO FIX IMAGE
+[Meetings Setting Defaults](template_assets/MeetingSettings){:target="_blank"}
 
 <a href="https://webexcc-sa.github.io/LAB-1111//template_assets/MeetingsSettings_pdf2.pdf" target="_blank"> Meetings Settings chart</a>
 
