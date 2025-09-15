@@ -40,6 +40,3 @@ Kellie Melby, Eric Steele, Stefan Mauk
 In this lab, you’ll simulate a real-world organization, Pixel Pals Studios, that employs both full-time employees and external contractors. To maintain security and productivity, the IT admin needs to ensure that full-time employees have access to the full range of Webex Suite features, while contractors are assigned a more restricted set of tools to minimize security risks and unnecessary access.
 
 ## Resources
-
-<a href="template_assets/Default vs Template Settings.pdf" target="_blank">Default Settings vs Template Settings</a><br>
-A comprehensive list of Organization, Meetings, Messaging, Calling and Vidcast settings and what can be changed with templates
