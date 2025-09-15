@@ -1,6 +1,6 @@
 # Lab 6 - Calling Settings
 
-<a href="https://webexcc-sa.github.io/LAB-1111//template_assets/Table1.png" target="blank">Overview of Calling Settings chart</a> (opens in new tab) NEED TO FIX IMAGE
+<a href="https://webexcc-sa.github.io/LAB-1111//SettingImages/MessagingSettings.png" target="blank">Overview of Calling Settings chart</a> (opens in new tab)
 
 **<a href="http://admin.webex.com/" target="_blank">Control Hub</a>> Services > Calling > Service settings**
 
