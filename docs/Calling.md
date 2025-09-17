@@ -56,25 +56,21 @@
       <td style="width: 60%;">
         <strong>Manage User Calling Data</strong>
             <p>Bulk change Webex Application access and voicemail enablement for Contractors</p>
-            <ul>
-              <li>All Locations &gt; Download Data</li>
-              <li>Specific user data for download:</li>
-              <ul>
-                <li>Voicemail</li>
-              </ul>
-              <li>Once download is initiated, go to <i>View upload history tasks</i> to download the most recent file</li>
-              <br>
-              <li>Edit the CSV file</li>
-              <li>Users: esteele, smauk, kmelby</li>
+              <p><b>All Locations &gt; Download Data</b></p>
+<ul><li>Specific user data for download: Voicemail</li></ul>
+
+              Once download is initiated, go to <i>View upload history tasks</i> to download the most recent file <br><br>
+              <b>Edit the CSV file
+              Users: esteele, smauk, kmelby</b>
               <ul>
                 <li>Column B: Voicemail enabled – FALSE</li>
+            </ul>
+            <b>All employees</b>
+              <ul>
+                <li>Column GP Call Recording enabled TRUE</li><br>
             
               </ul>
-              <li>All employees</li>
-              <ul>
-                <li>Column GP Call Recording enabled TRUE</li>
-              </ul>
-              <li>Upload CSV file. You should see that 8 records have been udpated.</li>
+            Upload CSV file. You should see that 8 records have been udpated.
             </ul>
           </li>
         </ul>
@@ -135,6 +131,6 @@
 </table>
 
 
->![Think About It](template_assets/thinkingcat.png) Think about it: What settings would you change for your organization? What groups might need restrictions?
+>![Think About It](template_assets/thinkingcat.png) Think about it: Which Calling settings might need to be changed for your organization or for certain groups?
 
 
