@@ -32,7 +32,7 @@
         <p><strong>Call Recording</strong></p>
         <ul>
           <li>Compliance announcements: Enable play announcement for inbound and outbound PSTN calls</li>
-          <li>Record emerency calls: Enable</li>
+          <li>Record emergency calls: Enable</li>
         </ul>
       </td>
     </tr>

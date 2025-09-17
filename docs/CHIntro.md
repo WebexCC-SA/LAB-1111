@@ -3,11 +3,11 @@
 
 | Navigation | Tasks |
 | --- | --- |
-| **Control Hub top navigation bar > Cisco AI Assistant Logo**<br><br>| Ask Cisco AI Assistant:What is the overview page?  |
-| **Overview**<br><br>| Locate the following:<li>Total devices</li><li>Total users</li><li>Webex Adoption Methodology</li>|
-| **Left Navigation**<br><br>|  Locate and explore:<li>Locations</li><li>Users</li><li>Organization Settings</li><li>Meetings</li><li>Messaging</li> |
+| **Control Hub top navigation bar > Cisco AI Assistant Logo**<br><br>| Ask Cisco AI Assistant: What is the overview page in Control Hub?  |
+| **Overview**<br><br>| Locate the following:<ul><li>Total devices</li><li>Total users</li><li>Webex Adoption Methodology</li></ul>|
+| **Left Navigation**<br><br>|  Locate and explore:<ul><li>Locations</li><li>Users</li><li>Organization Settings</li><li>Meetings</li><li>Messaging</li></ul> |
 | **Control Hub top navigation bar > Cisco AI Assistant Logo**| Ask Cisco AI Assistant: How do I prevent getting logged out of Control Hub? |
 | **Management > Organization Settings > Control Hub Idle Timeout**|  Change the timeout to 8 hours   |
 
 
->![Think About It](template_assets/thinkingcat.png) Think about it: What stood out to you on the Overview page?
+>![Think About It](template_assets/thinkingcat.png) Think about it: What stood out to you on the Overview page? Which shortcuts would be helpful for you?

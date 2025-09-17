@@ -2,6 +2,7 @@
 
 ## Organization settings
 [Organization default vs template settings](template_assets/OrgSettings.pdf){:target="_blank"}: Opens in a new tab<br>
+>Helpful tip: The Organization settings page is lengthy. Use Ctrl+F (PC) or Cmd+F (Mac) to find the next feature.
 <table>
   <thead>
     <tr>
