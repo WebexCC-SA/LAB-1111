@@ -148,7 +148,7 @@ Organization settings form the backbone of your company’s Webex environment, p
 <table>
   <thead>
     <tr>
-      <th style="width:40%"><strong>Use Case</strong></th>
+      <th style="width:40%"><strong>Use case & solution</strong></th>
       <th style="width:60%"><strong>
         <a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Management &gt; Organization Settings &gt; Templates
       </strong></th>

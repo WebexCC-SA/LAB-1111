@@ -37,8 +37,9 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <ul>
               <li>Animated GIFs, Bitmoji stickers, and previewing links: Enabled</li></ul>
             </ul>
-          </li>
-        </ul>
+          </li> <li><strong>Vidcast</strong> <ul>
+              <li>Required classifications: Enabled</li>
+               <ul><li>Classification added: Rainbow Raccoon</li></ul>
       </td>
     </tr>
     <tr>
@@ -73,16 +74,14 @@ We’re almost to the end! We've updated settings organization-wide and applied 
           </li>
         </ul>
           <li><strong>Vidcast</strong> <ul>
-              <li>Off - Allow importing of Webex Meeting</li>
-              <li>Off - Allow external sharing</li>
-              <li>Off - Allow video downloads</li>
-              <li>On – Enable highlights generation</li>
-              <li>On - Enable chapters &amp; description generation</li>
-              <li>On – Required classifications</li>
-               <li>Classification added: Rainbow Raccoon</li>
-         
-          
-        </ul>
+              <li>Allow importing of Webex Meeting: Disabled</li>
+              <li>Allow external sharing: Disabled</li>
+              <li>Allow video downloads: Disabled</li>
+              <li>Enable highlights generation: Disabled</li>
+              <li>Enable chapters &amp; description generation: Disabled</li>
+              <li>Required classifications: Enabled</li>
+             <ul><li>Classification added: Rainbow Raccoon</li></ul>
+         </ul>
       </td>
     </tr>
   </tbody>

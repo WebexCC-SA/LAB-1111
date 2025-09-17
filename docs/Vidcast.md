@@ -3,7 +3,36 @@
 Looking for alternatives to meetings? With Vidcast, users can quickly record, edit, and share video updates or presentations to streamline communication. In this lab, you'll review and set organization-wide settings, then create a template tailored for a specific user group-just as in previous labs. 
 
 [Vidcast default vs template settings](template_assets/VidcastSettings.pdf){:target="_blank"}: Opens in a new tab<br>
+## Organization settings
+<table>
+<tbody>
+<tr>
+<th style="width:40%;">Use case & solution</th>
+<th style="width:60%;"><a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Services > Vidcast > Settings</th>
+</tr>
+<tr>
+<td style="width:40%;">
+<p>This feature helps maintain consistent video content organization and supports compliance with company policies.</p>
+<ul>
+<li>Require classifications.</li>
+</ul>
+</td>
+<td style="width:60%;">
+<p><strong>Classifications</strong></p>
+<ul>
+<li>Require classifications: Enable</li>
+<li>Configure classification (click button)</li>
+<ul>
+<li>Create classification: Rainbow Raccoon</li>
+<li>Click Add</li>
+</ul>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
+## Template 
 <table>
   <tbody>
     <tr>
@@ -43,21 +72,6 @@ Looking for alternatives to meetings? With Vidcast, users can quickly record, ed
         <ul>
           <li>Enable highlights generation: Enable</li>
           <li>Enable chapters &amp; description generation: Enable</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="width:40%;">
-        <p>This feature helps maintain consistent video content organization and supports compliance with company policies.</p>
-        <ul> <li>Require classifications.</li></ul>
-      </td>
-      <td style="width:60%;">
-        <p><strong>Classifications</strong></p>
-        <ul>
-          <li> Require classifications: Enable</li>
-          <li>Configure classification (click button)</li><ul>
-          <li>Create classification: Rainbow Raccoon</li>
-          <li>Click Add</li></ul>
         </ul>
       </td>
     </tr>

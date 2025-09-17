@@ -26,7 +26,7 @@ Webex Calling provides a robust set of features to enhance your organization's c
     </tr>
     <tr>
        <tr>
-      <td style="width: 40%;">Enabling call recording announcements ensures call participants are informed, supporting legal compliance and transparency.   <br><br> Local laws require all emergency calls be recorded.<ul>
+      <td style="width: 40%;">Enabling call recording announcements ensures call participants are informed, supporting legal compliance and transparency. Local laws require all emergency calls be recorded.<ul><br>
                 <li> Turn on compliance announcements and emergency call recording.</li>
                 </ul>
       </td>
@@ -50,8 +50,7 @@ Webex Calling provides a robust set of features to enhance your organization's c
         </ul>
       </td>
     </tr>
-      <td style="width: 40%;">To reduce security risk and data breech concerns, contractors do not need voicemail.<br><br>
-      For training and compliance, all employee calls should be recorded.<br><ul><br>
+      <td style="width: 40%;">To reduce security risk and data breech concerns, contractors do not need voicemail. For training and compliance, all employee calls should be recorded.<br><ul>
                 <li> Disable voicemail for contractors and enable call recording for all employees.</li>
                 </ul>
       </td>
