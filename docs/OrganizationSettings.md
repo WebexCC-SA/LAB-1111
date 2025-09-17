@@ -235,13 +235,13 @@
     </tr>
     <tr>
       <td>
-        Apply template to PPS Contractors Group.
+        Create template and click next. 
       </td>
       <td>
-        <ul><strong>Create template and next</strong></ul>
+        <ul><strong>Apply template to PPS Contractors Group.</strong></ul>
       </td>
     </tr>
   </tbody>
 </table>
 
->![Think about it](template_assets/thinkingcat.png) Think about it: What settings might you need to restrict in your organization?
+>![Think about it](template_assets/thinkingcat.png) Think about it: What organization settings might you need to restrict in your organization?
