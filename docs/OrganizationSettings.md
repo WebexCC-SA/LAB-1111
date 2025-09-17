@@ -117,8 +117,6 @@
       <td>
         <p><strong>Password policy</strong></p>
          <i>Hint: you will need to use the down carrot to open the Password policy options.</i>
-      <br>
-         <img src="https://webexcc-sa.github.io/LAB-1111/docs/template_assets/output-onlinegiftools (1).gif" alt="Password policy gif"/>
         <ul>
           <li>Minimum character length = 10</li>
           <li>Days between password changes = 180</li>
@@ -248,5 +246,3 @@
 </table>
 
 >![Think about it](template_assets/thinkingcat.png) Think about it: What organization settings might you need to restrict in your organization?
-
-<img src="https://webexcc-sa.github.io/LAB-1111/docs/template_assets/output-onlinegiftools (1).gif" alt="Password policy gif"/>
