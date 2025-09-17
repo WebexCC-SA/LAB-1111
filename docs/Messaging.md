@@ -1,4 +1,5 @@
 # Lab 4 - Messaging
+In this lab, you'll learn how to customize your organization's messaging settings. We'll discuss possible changes at the organization level, then use the Messaging template to apply settings for a specific user group. 
 
 [Messaging default vs template settings](template_assets/MessagingSettings.pdf){:target="_blank"}: Opens in a new tab<br>
 <table><tbody><tr><th><a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Services &gt; Messaging &gt; Settings &gt; Templates</th><th>Use Case</th></tr><tr><td><p><strong>Create Template</strong></p><ul><li>Template Name: PPS Contractors</li><li>Description: Internal Messaging</li></ul></td><td><ul>Pixel Pals Studios needs to create a messaging template for contractors to ensure these users have only the communication features necessary for their roles while protecting sensitive company information.</ul></td></tr>

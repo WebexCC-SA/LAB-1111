@@ -1,5 +1,5 @@
 # Lab 3 - Organization settings & general template
-
+Organization settings form the backbone of your company’s Webex environment, providing consistency, security, and a customized experience for all users and devices. Some of these settings are best applied organization-wide, while others may be tailored using a template for specific groups of users. In this exercise, we’ll explore how to configure both types to best meet your organization’s needs. 
 ## Organization settings
 [Organization default vs template settings](template_assets/OrgSettings.pdf){:target="_blank"}: Opens in a new tab<br>
 
@@ -216,7 +216,9 @@
         <p><strong>Virtual background</strong></p>
         <ul>
           <li>Allow Webex backgrounds: Enable</li>
-          <li>Disable all others</li>
+          <ul><li>Disable all others</li></ul></ul>
+             <ul><li>Enforce virtual backgrounds for internal and external: Enable</li>
+          <ul><li>Allow all admin-uploaded backgrounds for internal and external: Enable</li></ul>
         </ul>
       </td>
     </tr>

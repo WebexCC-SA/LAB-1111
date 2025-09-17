@@ -1,5 +1,7 @@
 # Lab 6 - Calling
 
+Webex Calling provides a robust set of features to enhance your organization's communication, and it’s all in the cloud.  In this lab, you'll review and optimize key Webex Calling service settings, then adjust client-specific settings as needed. Finally, you'll import and apply feature changes for your Calling users to ensure the best experience across your organization. 
+
 [Calling setting defaults](template_assets/CallingSettings.pdf){:target="_blank"}: Opens in a new tab<br>
 ## Service settings
 <table>

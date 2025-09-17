@@ -1,8 +1,92 @@
 # Lab 9 - User overrides
 
-<a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Management
+We’re almost to the end! We've updated settings organization-wide and applied Webex Suite solution templates to our group of contract employees. Now, let's review where these changes appear for both regular and contract users. 
 
-<table><tbody><tr><th><a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Management</th><th>Use Case</th></tr><tr><td><p><strong>Management &gt; Users &gt; Anita Perez</p><ul><li>General</strong><ul><li>Messaging and Meetings</li><li>AI-generated summaries</li></ul></li><li><strong>Calling</strong><ul><li>Voicemail</li><li>Hide Calling Settings</li><li>Application Line Assignments</li></ul></li><li><strong>Messaging</strong><ul><li>Collaboration Restrictions</li></ul></li></ul><p><strong>Manual Changes</strong></p><p><ul><li>Turn on recording</li><ul></p></th><th><p>Anita is a full-time employee. Let’s see her settings now that we’ve changed organization wide settings</p></th></tr><tr><td><p><strong>Management &gt; Users &gt; Kellie Melby</strong></p><ul><li><strong>General</strong><ul><li>Messaging and Meetings</li><li>AI-generated summaries</li></ul></li><li><strong>Calling</strong><ul><li>Voicemail</li><li>Hide Calling Settings</li><li>Application Line Assignments</li></ul></li><li><strong>Messaging</strong><ul><li>Collaboration Restrictions</li></ul></li><li><strong>Vidcast </strong>***Which settings are we going to change?</li></ul></td><td><p>Kellie is a Contractor. Let’s see her settings now that the templates have been applied.</p></td></tr></tbody></table>
+<table>
+  <tbody>
+    <tr>
+      <th style="width:40%;">Use case & solution</th>
+      <th style="width:60%;"><a href="http://admin.webex.com/" target="_blank">Control Hub</a> navigation</th>
+    </tr>
+    <tr>
+      <td style="width:40%;">
+        <p>Anita is a full-time employee. Let’s see her settings now that we’ve changed organization wide settings</p><br>
+    Don't make any changes!
+      </td>
+      <td style="width:60%;">
+        <p><strong>Management &gt; Users &gt; Anita Perez</strong></p>
+   
+         <strong>General</strong><p>
+          General template applied: None</p>
+<ul>
+<li>Messaging</li>
+              <ul><li>Space summaries, rewrite message, & message translation: Enabled</li></ul></ul>
+              <ul><li> Meetings</li>
+              <ul><li>All features enabled</li></ul>
+            </ul>
+          </li>
+          <li><strong>Calling</strong>
+            <ul>
+              <li>Voicemail: Enabled</li>
+              <li>Call Recording: Enabled</li>
+              <li>Hide Calling Settings:<i> Click define custom user settings to see existing settings</i></li>
+              <ul><li>Call Settings: Block caller ID: Disabled
+              <li>Voicemail: All settings: Disabled</li></ul>
+            </ul></ul></li>
+          <li><strong>Messaging: Collaboration Restrictions</strong></li>
+              <ul>
+              <li>Animated GIFs, Bitmoji stickers, and previewing links: Enabled</li></ul>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:40%;">
+        <p>Kellie is a Contractor. Let’s see her settings now that the templates have been applied.</p><br>
+    Don't make any changes!
+      </td>
+      <td style="width:60%;">
+        <p><strong>Management &gt; Users &gt; Kellie Melby</strong></p>
+        <strong>General</strong><p>
+          General template applied: PPS Contractors</p>
+           <ul>
+              <li>Messaging</li>
+              <ul> <li>Space summaries: Disabled</li></ul></ul>
+              <ul>
+              <li> Meetings</li>
+              <ul><li>All features disabled</li></ul>
+            </ul>
+          </li>
+             <li><strong>Calling</strong>
+            <ul>
+              <li>Voicemail: Disabled</li>
+              <li>Call Recording: Enabled</li>
+              <li>Hide Calling Settings:<i> Click define custom user settings to see existing settings</i></li>
+              <ul><li>Call Settings: Block caller ID: Disabled
+              <li>Voicemail: All settings: Disabled</li></ul>
+            </ul></ul></li>
+          <li><strong>Messaging: Collaboration Restrictions</strong></li>
+              <ul>
+              <li>Bitmoji stickers sharing: Disabled</li></ul>
+            </ul>
+          </li>
+        </ul>
+          <li><strong>Vidcast</strong> <ul>
+              <li>Off - Allow importing of Webex Meeting</li>
+              <li>Off - Allow external sharing</li>
+              <li>Off - Allow video downloads</li>
+              <li>On – Enable highlights generation</li>
+              <li>On - Enable chapters &amp; description generation</li>
+              <li>On – Required classifications</li>
+               <li>Classification added: Rainbow Raccoon</li>
+         
+          
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ##Congratulations!
 <a href="https://webexcc-sa.github.io/LAB-1111//template_assets/EndofLab.png" target="blank">You did it! Click here!</a> NEED TO FIX IMAGE

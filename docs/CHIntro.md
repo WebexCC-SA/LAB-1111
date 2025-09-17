@@ -1,5 +1,5 @@
 # Introduction to Control Hub
-<a href="http://admin.webex.com" target="_blank"><b>Control Hub</b></a> is new to you (or maybe not!). Let’s explore!
+Whether you’re new to <a href="http://admin.webex.com" target="_blank">Control Hub</a>or already familiar with it, let’s check out a few things before we jump into optimization! 
 
 | Navigation | Tasks |
 | --- | --- |

@@ -1,6 +1,79 @@
 # Lab 7 - Vidcast
+
+Looking for alternatives to meetings? With Vidcast, users can quickly record, edit, and share video updates or presentations to streamline communication. In this lab, you'll review and set organization-wide settings, then create a template tailored for a specific user group-just as in previous labs. 
+
 [Vidcast default vs template settings](template_assets/VidcastSettings.pdf){:target="_blank"}: Opens in a new tab<br>
 
-<table><tbody><tr><th><a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Services &gt; Vidcast &gt; Templates</th><th>Use Case</th></tr><tr><td><p><strong>Create template</strong></p><ul><li>Template name: Pixel Pals Contractor</li><li>Description: Internal Vidcast</li></ul></td><td></td></tr><tr><td><p><strong>Importing meeting recordings</strong></p><ul><li>Turn off &gt; Allow importing of Webex Meeting</li></ul></td><td><p>Disabling contractors from importing meeting recordings into Vidcast prevents unauthorized sharing, protects sensitive information, ensures only trusted users manage content, supports compliance, and reduces data leakage risks</p></td></tr><tr><td><p><strong>Allow external sharing</strong></p><ul><li>Turn off &gt; Allow external sharing</li></ul></td><td><p>Same reasoning as above, we’ll want to prevent data going outside the organization</p></td></tr><tr><td><p><strong>Allow video downloads</strong></p><ul><li>Turn off &gt; Allow video downloads</li></ul></td><td><p>Prevents unauthorized distribution of video content.</p><p>Enhances security and compliance with organizational policies.</p><p>Controls access to video content by restricting it to streaming only.</p></td></tr><tr><td><p><strong>AI Features</strong></p><ul><li>Turn on &gt;</li><li>Enable highlights generation</li><li>Enable chapters &amp; description generation</li></ul></td><td><p>These AI-driven features make video content more dynamic, accessible, and user-friendly, which is especially valuable for contractors who need to quickly find and understand relevant information.</p></td></tr><tr><td><p><strong>Classifications</strong></p><ul><li>Turn on &gt; Require classifications</li><li>Configure classification (click button)</li><li>Create classification: Rainbow Raccoon</li><li>Click Add</li></ul></td><td><p>This feature helps maintain consistent video content organization and supports compliance with company policies.</p></td></tr><tr><td><ul><li>Click Create template and next</li><li>Search “PPS Contractor Group”</li><li>Click Done</li></ul></td><td><p>Apply template to PPS Contractor Group</p></td></tr></tbody></table>
+<table>
+  <tbody>
+    <tr>
+      <th style="width:40%;">Use case & solution</th>
+      <th style="width:60%;"><a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Services &gt; Vidcast &gt; Templates</th>
+    </tr>
+    <tr>
+      <td style="width:40%;"> <p><strong>Create template</strong></p>
+        <ul>
+          <li>Template name: PPS Contractors</li>
+          <li>Description: Internal Vidcast</li>
+        </ul>
+      </td>
+      <td style="width:60%;"></td>
+    </tr>
+    <tr>
+      <td style="width:40%;">
+        <p>Disabling these settings prevents unauthorized sharing and distribution of video content, protects sensitive information, supports compliance, and ensures only trusted users manage and access content via streaming only.
+       <ul> <li>Edit available Access features</li></ul>
+      </td>
+      <td style="width:60%;">
+        <p><strong>Access</strong></p>
+        <ul>
+          <li>Allow importing of Webex Meeting: Disable</li>
+          <li>Allow external sharing: Disable</li>
+          <li>Allow video downloads: Disable</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:40%;">
+        <p>These AI-driven features make video content more dynamic, accessible, and user-friendly, which is especially valuable for contractors who need to quickly find and understand relevant information.</p>
+        <ul> <li>Edit available AI features</li></ul>
+      </td>
+      <td style="width:60%;">
+        <p><strong>AI Features</strong></p>
+        <ul>
+          <li>Enable highlights generation: Enable</li>
+          <li>Enable chapters &amp; description generation: Enable</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:40%;">
+        <p>This feature helps maintain consistent video content organization and supports compliance with company policies.</p>
+        <ul> <li>Require classifications.</li></ul>
+      </td>
+      <td style="width:60%;">
+        <p><strong>Classifications</strong></p>
+        <ul>
+          <li> Require classifications: Enable</li>
+          <li>Configure classification (click button)</li><ul>
+          <li>Create classification: Rainbow Raccoon</li>
+          <li>Click Add</li></ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:40%;">
+        <p>Apply template to PPS Contractor Group</p>
+      </td>
+      <td style="width:60%;">
+        <ul>
+          <li>Click Create template and next</li>
+          <li>Search “PPS Contractor Group”</li>
+          <li>Click Done</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 >![Think about it](template_assets/thinkingcat.png) Think about it: How would your organization use Vidcast?
