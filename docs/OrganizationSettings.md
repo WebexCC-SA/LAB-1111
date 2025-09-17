@@ -2,12 +2,12 @@
 
 ## Organization settings
 [Organization default vs template settings](template_assets/OrgSettings.pdf){:target="_blank"}: Opens in a new tab<br>
->Helpful tip: The Organization settings page is lengthy. Use Ctrl+F (PC) or Cmd+F (Mac) to find the next feature.
+
 <table>
   <thead>
     <tr>
-      <th style="width:40%"><strong>Use Case</strong></th>
-      <th style="width:60%"><strong><a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Management &gt; Organization Settings</strong></th>
+      <th style="width:40%"><strong>Use case & solution</strong></th>
+      <td style="width:60%"><strong><a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Management &gt; Organization Settings</strong><p><i>Pro tip: Use Ctrl+F (PC) or Cmd+F (Mac) to find the setting on the page instead of scrolling.</i></th>
     </tr>
   </thead>
   <tbody><td>
@@ -248,4 +248,4 @@
 
 >![Think about it](template_assets/thinkingcat.png) Think about it: What organization settings might you need to restrict in your organization?
 
-   <img src="passwordpolicy.gif" alt="Password policy gif" width="100" height="100" />
+   <img src="https://webexcc-sa.github.io/LAB-1111/template_assets/smallerpassword.gif" alt="Password policy gif">
