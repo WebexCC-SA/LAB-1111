@@ -1,66 +1,103 @@
 # Lab 8 - Workspaces and devices
-Webex Workspaces and Devices enhance collaboration across the Webex Suite, supporting a secure and productive hybrid work environment. In this lab, you'll create and configure both shared and personal workspaces and explore the features available for each. You'll also get hands-on experience with Cisco's Workspace Designer. 
+Webex Workspaces and devices enhance collaboration across the Webex Suite, supporting a secure and productive hybrid work environment. In this lab, you'll create and configure both shared and personal workspaces and explore the features available for each. You'll also get hands-on experience with Cisco's Workspace Designer. 
 
-##Adding workspaces and devices   
+## Assigning devices
 
 <table>
   <tbody>
     <tr>
-      <th style="width:40%;">Use case &amp; solution</th>
-      <th style="width:60%;">
-        <a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Management
-      </th>
-    <tr> <td>
-        A workspace typically refers to a defined environment or area that helps organize, manage, and monitor those devices and their associated resources. This could be someone’s desk, a huddle room, focus area, meeting room, or open space.<br><br>
-        Pixel Pals Studios needs to add workspaces and devices in specific areas to manage shared devices, streamline bookings, and organize the office efficiently.
+      <th style="width:40%;"><p><strong>Use case &amp; solutions</strong></p></th>
+      <th style="width:60%;"><a href="http://admin.webex.com/" target="_blank"><strong>Control Hub</strong></a><strong> navigation</strong></th>
+    </tr>
+    <tr>
+      <td style="width:40%;">
+        Remember that line application template we implemented?<br><br>Let’s take a look to see if it was assigned to our users’ existing devices!
       </td>
-      <td>
-        <strong>Workspace</strong>
-        <ul>
-          <li>Create a workspace</li>
-          <li>Workspaces</li>
-          <li>Add workspace</li>
-          <li>Name – Rainbow Think tank</li>
-          <li>Type – Meeting Room</li>
-          <li>Capacity – 15</li>
-          <li>Location – Pixel Pals Corporate</li>
-          <li>Floor – Rainbow Raccoon floor (may need to scroll)</li>
-          <li>Next</li>
-          <li>Add device later</li>
-          <li>Meetings – Device hosted meetings</li>
-          <li>Site – Choose Webex url from drop down</li>
-          <li>Next</li>
+      <td style="width:60%;">
+          <strong>Management &gt; Devices &gt; Select any Cisco 9851</strong><ul>
+          <li>Device Management &gt; Configure Layout &gt; Line Key Configuration</li>
+          <li>Notice the speed dial we configured in the Calling lab.
+          <ul><li>It’s that easy to apply that template to multiple devices!</li>
+        </ul></ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:40%;">
+       Anita Perez has a phone in the office but will also need a physical phone in her home office.<br><ul>
+          <li>Assign a Cisco 9841 to Anita Perez.</li>
         </ul>
-      </td></tr> <tr><td>
-        Add a device to a shared workspace (Webex boards, room kits, Desk series)
       </td>
-      <td>
-        <strong>Devices: In a shared workspace</strong>
-        <ul>
-          <li>Devices</li>
-          <li>Add device</li>
-          <li>Shared Usage</li>
-          <li>Existing Workspace</li>
-          <li>Rainbow Think Tank &gt; Next</li>
-          <li>Activation code will be provided. This code would then be entered on the device. Device is then activated and ready for use!</li>
-          <li>Go to workspace &gt; Observe additional device actions</li>
+      <td style="width:60%;">
+        <strong>Management &gt; Devices &gt; Add device</strong><ul>
+          <li>Personal usage</li>
+          <li>User: Anita Perez</li>
+          <li>Cisco Desk Phone: Cisco 9841</li>
+          <li>Setup: By Activation code</li>
+          <li>Activation code will be provided.</li>
+          <li>This code would then be entered on the device by Anita, but we will not need it for this lab.</li>
         </ul>
       </td>
     </tr>
-    <tr>  <td>
-        Any Cisco device can be assigned as a personal device, but in this case one of our employees requires a phone at home, as well as her phone in the office.
-      </td>
-      <td>
-        <strong>Devices: Personal</strong>
+  </tbody>
+</table>
+
+## Workspaces
+<table>
+  <tbody>
+    <tr>
+      <th style="width:40%;"><p><strong>Use case &amp; solution</strong></p></th>
+      <th style="width:60%;"><p><a href="http://admin.webex.com/" target="_blank"><strong>Control Hub</strong></a><strong> navigation</strong></p></th>
+    </tr>
+    <tr>
+      <td style="width:40%;">
+        <p>Users in the office need a quiet space to focus and make phone calls using their own identities.</p>
         <ul>
-          <li>Devices</li>
-          <li>Add a device</li>
-          <li>Personal usage &gt; Next</li>
-          <li>Search &gt; Anita Perez &gt; Next</li>
-          <li>Cisco Desk Phone</li>
-          <li>Select a Device &gt; Cisco 9841 &gt; By Activation Code &gt; Next</li>
-          <li>Activation code will be provided. This code would then be entered on the device. Device is then activated and ready for use!</li>
-          <li>Close</li>
+          <li>Set up an existing workspace with a hotdesking device. <a href="https://www.webex.com/us/en/workspaces/hot-desk.html" target="_blank">Hotdesking</a> allows users to sign in and book a shared phone for their workday.</li>
+        </ul>
+      </td>
+      <td style="width:60%;">
+        <p><strong>Management &gt; Workspaces &gt; Workspace 1 (CHECK NAME)</strong></p>
+        <ul><li>Actions: Edit
+        <ul>
+          <li>Name: Quiet Pod 1</li>
+          <li>Type: Focus Area</li>
+          <li>Capacity: 1</li>
+        </ul></ul>
+        <ul><li>Scheduling
+        <ul>
+          <li>Hot desk sign in: Enable</li>
+        </ul></ul>
+        <ul><li>Devices: Add device
+        <ul>
+          <li>Cisco Desk Phone: Cisco 9871
+            <ul>
+              <li>By Activation Code</li>
+              <li>This code would then be entered on the device, but we will not need it for this lab.</li>
+            </ul></ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:40%;">
+          <p>The RainbowRaccoon game development team needs a dedicated workspace for team meetings that has a device to make collaboration efficient.</p>
+          <ul><li>Set up a workspace to accommodate the large team with a Cisco Room device that can host Webex Meetings.</li>
+        </ul>
+      </td>
+      <td style="width:60%;">
+        <p><strong>Management &gt; Workspaces &gt; Add workspace</strong></p>
+        <ul>
+          <li>Name: Rainbow Think Tank</li>
+          <li>Type: Meeting Room</li>
+          <li>Capacity: 15</li>
+          <li>Location: PPS Corporate</li>
+          <li>Floor: RainbowRaccoon floor (may need to scroll)</li>
+          <li>Device: Cisco Room and Desk device</li>
+          <li>Meetings: Device hosted meetings</li>
+          <li>Site: Choose Webex url from drop down</li>
+          <li>Activation code will be provided.
+          <ul><li>This code would then be entered on the device, but we will not need it for this lab.</li>
+          <li>The device will not appear in Control Hub until it has been activated, which we are not doing.</li></ul>
         </ul>
       </td>
     </tr>
@@ -69,15 +106,15 @@ Webex Workspaces and Devices enhance collaboration across the Webex Suite, suppo
 
 >![Think About It](template_assets/thinkingcat.png)**Consider the workspaces and devices in your organization**<br>
 
-- Where are the devices physically located?<br>
-    - Campus, building, floors<br>
-- How are the spaces used?<br>
-    - Meetings rooms, open areas, huddle rooms, kiosks<br>
-- How many people typically occupy those spaces?<br>
-- What is each space’s capacity, and how does it affect device placement and use?<br>
-- How will the devices support collaboration and user needs in each environment?<br>
+* Where are the devices physically located?<br>
+    * Campus, building, floors<br>
+* How are the spaces used?<br>
+    * Meetings rooms, open areas, huddle rooms, kiosks<br>
+* How many people typically occupy those spaces?<br>
+* What is each space’s capacity, and how does it affect device placement and use?<br>
+* How will the devices support collaboration and user needs in each environment?<br>
 
-##Workspace Designer
+## Workspace Designer
 
 ![Reimagine Workspaces](<template_assets/reimagine-workspaces.gif>)
 
@@ -100,3 +137,4 @@ Webex Workspaces and Devices enhance collaboration across the Webex Suite, suppo
     </tr>
   </tbody>
 </table>
+
