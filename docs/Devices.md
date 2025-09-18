@@ -1,7 +1,7 @@
 # Lab 8 - Devices and workspaces
 Webex devices and workspaces enhance collaboration across the Webex Suite, supporting a secure and productive hybrid work environment. In this lab, you'll create and configure both shared and personal workspaces and explore the features available for each. You'll also get hands-on experience with Cisco's Workspace Designer. 
 
-## Assigning devices
+### Assigning devices
 
 <table>
   <tbody>
@@ -41,7 +41,7 @@ Webex devices and workspaces enhance collaboration across the Webex Suite, suppo
   </tbody>
 </table>
 
-## Workspaces
+### Workspaces
 <table>
   <tbody>
     <tr>
@@ -56,24 +56,22 @@ Webex devices and workspaces enhance collaboration across the Webex Suite, suppo
         </ul>
       </td>
       <td style="width:60%;">
-        <p><strong>Management &gt; Workspaces &gt; Workspace 1 (CHECK NAME)</strong></p>
+        <p><strong>Management &gt; Workspaces &gt; Workspace 1</strong></p>
         <ul><li>Actions: Edit
         <ul>
           <li>Name: Quiet Pod 1</li>
           <li>Type: Focus Area</li>
           <li>Capacity: 1</li>
         </ul></ul>
-        <ul><li>Scheduling
-        <ul>
-          <li>Hot desk sign in: Enable</li>
-        </ul></ul>
-        <ul><li>Devices: Add device
-        <ul>
+        <ul><li>Overview<ul><li>Devices: Add device
           <li>Cisco Desk Phone: Cisco 9871
             <ul>
               <li>By Activation Code</li>
               <li>This code would then be entered on the device, but we will not need it for this lab.</li>
-            </ul></ul>
+            </ul></ul> <ul><li>Scheduling
+        <ul>
+          <li>Hot desk sign in: Enable</li>
+        </ul></ul>
           </li>
         </ul>
       </td>
@@ -114,7 +112,7 @@ Webex devices and workspaces enhance collaboration across the Webex Suite, suppo
 * What is each space’s capacity, and how does it affect device placement and use?<br>
 * How will the devices support collaboration and user needs in each environment?<br>
 
-## Workspace Designer
+### Workspace Designer
 
 ![Reimagine Workspaces](<template_assets/reimagine-workspaces.gif>)
 

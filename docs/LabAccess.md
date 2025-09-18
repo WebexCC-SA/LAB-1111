@@ -1,4 +1,5 @@
-## Lab access
+# Getting started
+### Lab access
 <ul>
   <li>Labs will be conducted in <a href="https://admin.webex.com" target="_blank">Control Hub</a>.</li>
   <li>Administrator login details are provided in the chart below.
@@ -7,7 +8,7 @@
 </ul><br>
 -CHART HERE-
 
-## Using this guide
+### Using this guide
 <ul>
   <li>Labs have dependencies that require completion in a specific order.</li>
   <li>The labs are listed in the left navigation bar in the order they should be completed.</li>

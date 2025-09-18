@@ -1,4 +1,4 @@
-# First steps to Webex Suite optimization
+# Lab 2 First steps to optimization
 Before we dive into the unique features that Webex Suite offers for different user types, we'll start by setting up locations to represent where your users and devices are based. We’ll also organize users into groups, laying the foundation for tailored management and experiences throughout the lab. 
 ### Locations
 
