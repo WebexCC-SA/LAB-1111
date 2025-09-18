@@ -2,7 +2,7 @@
 
 Looking for alternatives to meetings? With Vidcast, users can quickly record, edit, and share video updates or presentations to streamline communication. In this lab, you'll review and set organization-wide settings, then create a template tailored for a specific user group-just as in previous labs. 
 
-[Vidcast default vs template settings](template_assets/VidcastSettings.pdf){:target="_blank"}: Opens in a new tab<br>
+The [Vidcast default vs template settings chart](template_assets/VidcastSettings.pdf){:target="_blank"} shows which Vidcast settings are set by default and which you can change for groups using the template. Use it as a quick reference to see default settings versus customizable options to fit your organization’s needs.
 ## Organization settings
 <table>
 <tbody>
@@ -38,16 +38,13 @@ Looking for alternatives to meetings? With Vidcast, users can quickly record, ed
     <tr>
       <th style="width:40%;">Use case & solution</th>
       <th style="width:60%;"><a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Services &gt; Vidcast &gt; Templates</th>
-    </tr>
-    <tr>
-      <td style="width:40%;"> <p><strong>Create template</strong></p>
+    </tr><tr><td style="width:40%;">Pixel Pals Studios needs a Vidcast settings template for their contractors to easily manage and control the specific Vidcast features and permissions for this group.</td>
+      <td style="width:60%;"> <p><strong>Create template</strong></p>
         <ul>
           <li>Template name: PPS Contractors</li>
           <li>Description: Internal Vidcast</li>
         </ul>
-      </td>
-      <td style="width:60%;"></td>
-    </tr>
+      </td></tr>
     <tr>
       <td style="width:40%;">
         <p>Disabling these settings prevents unauthorized sharing and distribution of video content, protects sensitive information, supports compliance, and ensures only trusted users manage and access content via streaming only.

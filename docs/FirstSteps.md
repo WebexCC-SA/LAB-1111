@@ -94,7 +94,6 @@ Before we dive into the unique features that Webex Suite offers for different us
               <li>User call experience > In-call feature access</li>
               <ul><li> Sharing content</li></ul>
               <li>Hide Calling Settings</li>
-              
             </ul>
           </li>
           <li><strong>Messaging</strong>
@@ -104,7 +103,9 @@ Before we dive into the unique features that Webex Suite offers for different us
           </li>
           <li><strong>Vidcast</strong>
             <ul>
-              <li>Which settings are we going to change?</li>
+              <li>Access</li>
+              <li>AI Feautres</li>
+              <li>Classifications</li>
             </ul>
           </li>
         </ul>

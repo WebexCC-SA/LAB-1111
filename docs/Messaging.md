@@ -1,7 +1,7 @@
 # Lab 4 - Messaging
 In this lab, you'll learn how to customize your organization's messaging settings. We'll discuss possible changes at the organization level, then use the Messaging template to apply settings for a specific user group. 
 
-[Messaging default vs template settings](template_assets/MessagingSettings.pdf){:target="_blank"}: Opens in a new tab<br>
+The [Messaging default vs template settings chart](template_assets/MessagingSettings.pdf){:target="_blank"} shows which Messaging settings are set by default and which you can change for groups using the template. Use it as a quick reference to see default settings versus customizable options to fit your organization’s needs.
 <table>
   <tbody>
     <tr>
@@ -12,9 +12,7 @@ In this lab, you'll learn how to customize your organization's messaging setting
     </tr>
     <tr>
       <td>
-        <ul>
           Pixel Pals Studios needs to create a messaging template for contractors to ensure these users have only the communication features necessary for their roles while protecting sensitive company information.
-        </ul>
       </td>
       <td>
         <p><strong>Create Template</strong></p>
@@ -31,7 +29,7 @@ In this lab, you'll learn how to customize your organization's messaging setting
     </tr>
     <tr>
       <td>
-        <p>Blocking file uploads for contractors in Webex Messaging helps maintain security, compliance, and data control.</p>
+        Blocking file uploads for contractors in Webex Messaging helps maintain security, compliance, and data control.
       </td>
       <td>
         <p><strong>Block file upload on</strong></p>
@@ -63,11 +61,11 @@ In this lab, you'll learn how to customize your organization's messaging setting
       <td>
         <p><strong>Create Template &gt; Apply</strong></p>
         <ul>
-          <li>Search “Pixel Pals Contractor”</li>
+          <li>Search “PPS Contractor Group”</li>
           <li>Click Done</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
->![Think about it](template_assets/thinkingcat.png) Think about it: What messaging settings would you change for your organization?
+>![Think about it](template_assets/thinkingcat.png) Think about it: What Messaging settings would you change for your organization?

@@ -1,13 +1,13 @@
 # Lab 5 - Meetings
 Webex Meetings offers a wide range of features for hosts and cohosts. And with Webex, the most secure.  In this lab, you'll review which settings may need adjustment for your organization. Then, following the approach from earlier labs, you'll create and apply a template with specific limitations for a user group that requires additional controls. 
 
-[Meetings default vs template settings](template_assets/MeetingsSetting.pdf){:target="_blank"}: Opens in a new tab<br>
+The [Meetings default vs template settings chart](template_assets/MeetingsSetting.pdf){:target="_blank"} shows which Meeetings settings are set by default and which you can change for groups using the template. Use it as a quick reference to see default settings versus customizable options to fit your organization’s needs.
 <table>
   <tbody>
     <tr>
       <th style="width:40%;">Use Case</th>
       <th style="width:60%;">
-        <a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Services &gt; Meetings &gt; Templates
+        <a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Services &gt; Meeting &gt; Templates
       </th>
     </tr>
     <tr>
@@ -33,19 +33,18 @@ Webex Meetings offers a wide range of features for hosts and cohosts. And with W
         <p><strong>External</strong></p>
         <ul>
           <li>Allow approved external sites</li>
-          <li>Add: cisco.webex.com</li>
+          <li>Add: cisco.webex.com, temprecruiters.webex.com</li>
         </ul>
       </td>
-    </tr>
+    </tr><tr><td colspan="2;"><i>Tip: In each grouping going forward, Internal meetings setting is the first column; External meeting setting is the second.</td></tr>
     <tr>
       <td>
         Disabling Slido for contractors prevents them from starting polls or Q&amp;A sessions, which could otherwise lead to distractions or sharing of unintended information.
       </td>
       <td>
         <p><strong>Collaboration tools</strong></p>
-        <ul>
-          <li><strong>Polling, Q&amp;A, Slido</strong></li>
-          <li>Disable Internal meeting and External meeting</li>
+          <strong>Polling, Q&amp;A, Slido</strong>
+          <ul><li>Internal meeting and External meeting: Disable</li>
         </ul>
       </td>
     </tr>
@@ -57,7 +56,7 @@ Webex Meetings offers a wide range of features for hosts and cohosts. And with W
         <p><strong>Recording</strong></p>
         <p><strong>Cloud recording &amp; Local Recording</strong></p>
         <ul>
-          <li>Disable Internal meeting and External meeting</li>
+          <li>Internal meeting and External meeting: Disable</li>
         </ul>
       </td>
     </tr>
@@ -68,9 +67,8 @@ Webex Meetings offers a wide range of features for hosts and cohosts. And with W
       </td>
       <td>
         <p><strong>Remote Control</strong></p>
-        <p><strong>Turn on remote control</strong></p>
-        <ul>
-          <li>Disable External meeting</li>
+       <ul><li>Turn on remote control:<ul><li>Internal meeting: Enable</li>
+          <li>External meeting: Disable</li></ul>
         </ul>
       </td>
     </tr>
@@ -80,9 +78,8 @@ Webex Meetings offers a wide range of features for hosts and cohosts. And with W
       </td>
       <td>
         <p><strong>Sharing</strong></p>
-        <p><strong>Enable Sharing</strong></p>
-        <ul>
-          <li>Internal and External Meetings: Disable Desktop Sharing only</li>
+         <ul><li>Enable Sharing: Internal and External Meeting: Enable</li>
+          <li>Internal and External Meeting: Disable Desktop Sharing</li>
         </ul>
       </td>
     </tr>

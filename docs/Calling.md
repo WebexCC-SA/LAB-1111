@@ -2,7 +2,7 @@
 
 Webex Calling provides a robust set of features to enhance your organization's communication, and it’s all in the cloud.  In this lab, you'll review and optimize key Webex Calling service settings, then adjust client-specific settings as needed. Finally, you'll import and apply feature changes for your Calling users to ensure the best experience across your organization. 
 
-[Calling setting defaults](template_assets/CallingSettings.pdf){:target="_blank"}: Opens in a new tab<br>
+The [Calling settings chart](template_assets/CallingSettings.pdf){:target="_blank"} shows which Calling settings are set by default and which you can change for groups using a template or bulk tools to override. Use it as a quick reference to see default settings versus customizable options to fit your organization’s needs.
 ## Service settings
 <table>
   <thead>
@@ -11,7 +11,7 @@ Webex Calling provides a robust set of features to enhance your organization's c
       <th style="width: 60%;"><a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Services &gt; Calling &gt; Service settings</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody><tr><td colspan="2;"><i>Note: Most individual settings require clicking save before moving to the next setting.</i></td></tr>
     <tr>
       <td style="width: 40%;">Employees have complained about the number of spam calls they receive.<br>   <ul>
                 <li> Create a call block list.</li>
@@ -68,19 +68,15 @@ Webex Calling provides a robust set of features to enhance your organization's c
             </ul>
             <b>All employees</b>
               <ul>
-                <li>Column GP Call Recording enabled TRUE</li><br>
-            
-              </ul>
-            Upload CSV file. You should see that 8 records have been udpated.
-            </ul>
-          </li>
-        </ul>
+                <li>Column GP Call Recording enabled TRUE</li>
+              </ul><p>
+            Upload CSV file. You should see that 8 records have been updated.
       </td>
     </tr>
     <tr>
-      <td style="width: 40%;">Spot check your import</td>
+      <td style="width: 40%;">Spot check your import.<p> <i>Hint: As a shortcut, use the AI-powered smart search bar at the top of Control Hub to search for Kellie Melby.</i></td>
       <td style="width: 60%;">
-        <strong>Management &gt; Users &gt; Kellie Melby &gt; Calling</strong>
+        <strong>Management &gt; Users &gt; Kellie Melby &gt; Calling</strong><br>
            Confirm the following:<ul>
               <li>Voicemail: disabled</li>
               <li>User calling experience: Call Recording: enabled</li>

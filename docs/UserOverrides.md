@@ -11,7 +11,7 @@ We’re almost to the end! We've updated settings organization-wide and applied 
     <tr>
       <td style="width:40%;">
         <p>Anita is a full-time employee. Let’s see her settings now that we’ve changed organization wide settings</p><br>
-    Don't make any changes!
+    Don't make any changes!<p><i>Hint: As a shortcut, use the AI-powered smart search bar at the top of Control Hub to search for Anita Perez.</i>
       </td>
       <td style="width:60%;">
         <p><strong>Management &gt; Users &gt; Anita Perez</strong></p>
@@ -45,7 +45,7 @@ We’re almost to the end! We've updated settings organization-wide and applied 
     <tr>
       <td style="width:40%;">
         <p>Kellie is a Contractor. Let’s see her settings now that the templates have been applied.</p><br>
-    Don't make any changes!
+    Don't make any changes!<p><i>Hint: As a shortcut, use the AI-powered smart search bar at the top of Control Hub to search for Kellie Melby.</i>
       </td>
       <td style="width:60%;">
         <p><strong>Management &gt; Users &gt; Kellie Melby</strong></p>
@@ -87,5 +87,4 @@ We’re almost to the end! We've updated settings organization-wide and applied 
   </tbody>
 </table>
 
-##Congratulations!
-<a href="https://webexcc-sa.github.io/LAB-1111//template_assets/EndofLab.png" target="blank">You did it! Click here!</a> NEED TO FIX IMAGE
+>![Think about it](template_assets/thinkingcat.png) Think about it: What were the differences between the 2 users? Would you be able to override the template features at the individual user level as well?
