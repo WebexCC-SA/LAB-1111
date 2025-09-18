@@ -14,7 +14,7 @@ Before we dive into the unique features that Webex Suite offers for different us
   <tbody>
     <tr>
       <td>
-        As Pixel Pals Studios grows, a scalable naming structure in Control Hub ensures efficient administration and easy management of future locations.<br>   <ul>
+        As PixelPals Studios grows, a scalable naming structure in Control Hub ensures efficient administration and easy management of future locations.<br>   <ul>
                 <li> Give the main location a recognizable name.</li>
                 </ul>
       </td>
@@ -30,7 +30,7 @@ Before we dive into the unique features that Webex Suite offers for different us
     <tr>
       <td>
         Specifying floors within locations will allow admins to easily assign devices, meeting rooms and users within specific areas of their offices. This helps with emergency services settings, troubleshooting and physical space utilization.<br>   <ul>
-                <li> Create a floor to indicate where the Rainbow Racoon team works at PPS Corporate.</li>
+                <li> Create a floor to indicate where the RainbowRacoon game development team works at PPS Corporate.</li>
                 </ul>
                 
       </td>
@@ -38,7 +38,7 @@ Before we dive into the unique features that Webex Suite offers for different us
         <p><strong>Overview &gt; Floors &gt; Add floor</strong></p>
         <ul>
           <li>Floor number: 10</li>
-          <li>Floor name: Rainbow Raccoon Floor</li>
+          <li>Floor name: RainbowRaccoon Floor</li>
         </ul><br>We'll come back to using floors later!
       </td>
     </tr>
