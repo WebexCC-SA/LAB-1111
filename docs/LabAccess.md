@@ -22,4 +22,4 @@
   <li>Look for hints and tips throughout the labs, which are displayed in <em>italics</em>.</li>
   <li>Please note, if you work ahead, questions cannot be answered until the group reaches that topic.</li>
 </ul>
-![Think about it](template_assets/thinkingcat.png) The thinking cat indicates stopping points for discussion.
+>![Think about it](template_assets/thinkingcat.png) The thinking cat indicates stopping points for discussion.

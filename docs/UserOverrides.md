@@ -1,4 +1,3 @@
-# Lab 9 - User overrides
 
 We’re almost to the end! We've updated settings organization-wide and applied Webex Suite solution templates to our group of contract employees. Now, let's review where these changes appear for both regular and contract users. 
 
