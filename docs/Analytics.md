@@ -1,9 +1,11 @@
 # Lab 10 - Alerts and analytics
-Now that we've configured Webex Suite settings, groups, locations, and users, let's explore how to stay informed and proactive by using alerts and analytics.
+Now that we've configured Webex Suite settings, groups, locations, and users, let's explore how to stay informed and proactive by using alerts and analytics.<p>
 
+- In this lab
+    - Navigate the Analytics page and explore various dashboards
+    - Create a dashboards
+    - Set up alerts for critical metrics
 ### Alerts
-Alerts in Control Hub are notifications that inform administrators about important events or issues, such as service outages, security events, or license usage. They help you monitor your Webex environment and respond quickly to any concerns.
-
 <table>
   <colgroup>
     <col style="width:40%">
@@ -107,7 +109,7 @@ Alerts in Control Hub are notifications that inform administrators about importa
           <li>Select a dimension
           <ul><li>Workspace name
           <ul><li>Check Rainbow Think Tank</ul></ul>
-          <li>There's not data, but explore the widgets</li>
+          <li>There's no data, but explore the widgets</li>
         </ul>
       </td>
     </tr>

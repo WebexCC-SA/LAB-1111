@@ -2,11 +2,11 @@
 
 Looking for alternatives to meetings? With Vidcast, users can quickly record, edit, and share video updates or presentations to streamline communication. 
 
-- In this lab:
-    - You'll review and set organization-wide settings.
-    - Create a template tailored for a specific user group, just as in previous labs.
-- The [Vidcast default vs template settings chart](template_assets/VidcastSettings.pdf){:target="_blank"}shows which Vidcast settings are set by default and which you can change for groups using the template.
-    - Use the chart as a quick reference to see default settings versus customizable options to fit your organization’s needs.
+- In this lab
+    - Review and set organization-wide Vidcast settings
+    - Create a template tailored for a specific user group, just as in previous labs
+- The [Vidcast default vs template settings chart](template_assets/VidcastSettings.pdf){:target="_blank"}shows which Vidcast settings are set by default and which you can change for groups using the template
+    - Use the chart as a quick reference to see default settings versus customizable options to fit your organization’s needs
 
 ### Organization settings
 <table>
