@@ -1,5 +1,7 @@
-# Introduction to Control Hub
-Whether you’re new to <a href="http://admin.webex.com" target="_blank">Control Hub</a>or already familiar with it, let’s check out a few things before we jump into optimization! 
+# Getting to know Control Hub
+<a href="http://admin.webex.com" target="_blank">Control Hub</a>  is a centralized, web-based interface for managing and monitoring your organization’s Webex services, users, and devices.
+
+Whether you’re new to Control Hub or already familiar with it, let’s check out a few things before we jump into optimization! 
 
 | Navigation | Tasks |
 | --- | --- |

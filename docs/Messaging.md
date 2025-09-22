@@ -1,7 +1,13 @@
 # Lab 4 - Messaging
-In this lab, you'll learn how to customize your organization's messaging settings. We'll discuss possible changes at the organization level, then use the Messaging template to apply settings for a specific user group. 
+Webex Messaging provides secure, real-time communication and collaboration for teams of any size.
 
-The [Messaging default vs template settings chart](template_assets/MessagingSettings.pdf){:target="_blank"} shows which Messaging settings are set by default and which you can change for groups using the template. Use it as a quick reference to see default settings versus customizable options to fit your organization’s needs.
+- In this lab:
+    - Learn how to customize your organization's messaging settings.
+    - Discuss with the group possible changes at the organization level.
+    - Use the Messaging template to apply settings for a specific user group.
+- The [Messaging default vs template settings chart](template_assets/MessagingSettings.pdf){:target="_blank"} chart shows which settings are set by default and which can be customized for groups using the template.
+    - Use the chart as a quick reference to compare default settings with customizable options to fit your organization’s needs.
+
 <table>
   <tbody>
     <tr>

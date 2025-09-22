@@ -75,3 +75,67 @@ Alerts in Control Hub are notifications that inform administrators about importa
 </table>
 
 >![Think about it](template_assets/thinkingcat.png) Think about it: What alerts do you need to see in the Alert Center in the mornings while you drink your coffee and for which do you need notifications?
+### Analytics
+<table style="width: 100%;">
+  <colgroup>
+    <col style="width: 40%;">
+    <col style="width: 60%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Description</th>
+      <th><a href="http://admin.webex.com/" target="_blank">Control Hub</a> Navigation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>No action to take but observe the summary page.</p>
+      </td>
+      <td>
+          <strong>Monitoring > Analytics > Summary</strong>
+           <ul><li>Click across the top options and note the different widgets providing data. (Meetings, Messaging, Calling, etc.)</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Let’s check utilization of the Rainbow Think Tank! When you start adding more workspaces and devices, there are times when you’d like to review one workspace.</p>
+      </td>
+      <td>
+       <strong>Monitoring > Analytics > Workspaces > Filters</strong>
+        <ul>
+          <li>Select a dimension
+          <ul><li>Workspace name
+          <ul><li>Check Rainbow Think Tank</ul></ul>
+          <li>There's not data, but explore the widgets</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Control Hub Administrators can customize the summary page and add widgets containing the content they want to see.<p> Admins can also create new dashboards and organize them by sections. Imagine having one place to see everything that is important to you! What better way to “optimize”.</p>
+
+        <strong>Create a dashboard with multiple sections, each with data for a different workload</strong>
+      </td>
+      <td>
+        <strong>Monitoring > Analytics > My Dashboards > Add Dashboard > Edit Dashboard</strong><br>
+ <ul><li>New Dashboard 1 tab: Change name to Meetings
+           <ul><li><i>Click into the tab. It's to the right of Summary</i></ul>
+   <li>Change Section Name 1: Meetings
+            <ul><li><i>Click on the text in the horizontal box</i></ul>
+  <li>Add Widgets
+    <ul>
+      <li>Service: Meetings
+          <li>Metrics: All
+          <li>Widgets: Select 5
+          <li>Dashboard section: Meetings<ul>
+          <li><i>Use the plus sign to add & make sure to click Add widget at the bottom </i></ul>
+  <li>Create a new section
+  <ul><li><i>Scroll down to find the plus sign</i>
+</ul><li>Follow steps above starting with "Change Section Name"
+<ul><li> This time you chose a name and a service!
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
