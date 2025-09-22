@@ -75,7 +75,7 @@ The [Calling settings chart](template_assets/CallingSettings.pdf){:target="_blan
     <tr>
       <td style="width: 40%;">Spot check your import.<p> <i>Hint: As a shortcut, use the AI-powered smart search bar at the top of Control Hub to search for Kellie Melby.</i></td>
       <td style="width: 60%;">
-        <strong>Management &gt; Users &gt; Kellie Melby &gt; Calling</strong><br>
+        <strong>Management &gt; Users &gt; Kellie Melby &gt; Calling</strong><p>
            Confirm the following:<ul>
               <li>Voicemail: disabled</li>
               <li>User calling experience: Call Recording: enabled</li>

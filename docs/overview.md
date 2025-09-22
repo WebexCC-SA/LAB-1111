@@ -1,8 +1,8 @@
 # Overview
 
 ## Welcome
-![Gif](template_assets/HomePageGif.gif)
-Susan to update gif
+![Welcome](template_assets/WelcomeSlides.gif)
+
 
 ## Learning objectives
 

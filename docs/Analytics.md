@@ -3,7 +3,7 @@ Now that we've configured Webex Suite settings, groups, locations, and users, le
 
 ### Alerts
 Alerts in Control Hub are notifications that inform administrators about important events or issues, such as service outages, security events, or license usage. They help you monitor your Webex environment and respond quickly to any concerns.
-![Alert Center](template_assets/Alerts.gif)
+
 <table>
   <colgroup>
     <col style="width:40%">

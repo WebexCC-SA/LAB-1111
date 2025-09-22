@@ -21,7 +21,7 @@ The [Vidcast default vs template settings chart](template_assets/VidcastSettings
 <p><strong>Classifications</strong></p>
 <ul>
 <li>Require classifications: Enable</li>
-<li>Configure classification (click button)</li>
+<li>Configure classification (click button)
 <ul>
 <li>Create classification: Rainbow Raccoon</li>
 <li>Click Add</li>

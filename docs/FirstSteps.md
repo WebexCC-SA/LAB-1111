@@ -91,8 +91,8 @@ Before we dive into the unique features that Webex Suite offers for different us
           <li><strong>Calling</strong>
             <ul>
               <li>Voicemail</li>
-              <li>User call experience > In-call feature access</li>
-              <ul><li> Sharing content</li></ul>
+              <li>User call experience > In-call feature access
+              <ul><li> Sharing content</ul>
               <li>Hide Calling Settings</li>
             </ul>
           </li>
@@ -131,10 +131,10 @@ Before we dive into the unique features that Webex Suite offers for different us
           <i>Don't click done when you see the high five!</i>
             <li>Assign group resources
             <ul>
-              <li>Licenses > Set up</li>
-              <ul><li>Advanced Messaging, Webex Assistant for Meetings, Webex Meetings Suite, Webex Calling Professional</li>
+              <li>Licenses > Set up
+              <ul><li>Advanced Messaging, Webex Assistant for Meetings, Webex Meetings Suite, Webex Calling Professional
             <li><i>No need to apply to existing users. They already have these licenses.</i>
-          </li></ul>
+          </ul>
         </ul>
       </td>
     </tr>

@@ -18,11 +18,11 @@ We’re almost to the end! We've updated settings organization-wide and applied 
          <strong>General</strong><p>
           General template applied: None</p>
 <ul>
-<li>Messaging</li>
-              <ul><li>Space summaries, rewrite message, & message translation: Enabled</li></ul></ul>
-              <ul><li> Meetings</li>
+<li>Messaging
+              <ul><li>Space summaries, rewrite message, & message translation: Enabled</ul></ul>
+              <ul><li> Meetings
               <ul><li>All features enabled</li></ul>
-            </ul>
+            
           </li>
           <li><strong>Calling</strong>
             <ul>
@@ -51,10 +51,10 @@ We’re almost to the end! We've updated settings organization-wide and applied 
         <strong>General</strong><p>
           General template applied: PPS Contractors</p>
            <ul>
-              <li>Messaging</li>
+              <li>Messaging
               <ul> <li>Space summaries: Disabled</li></ul></ul>
               <ul>
-              <li> Meetings</li>
+              <li> Meetings
               <ul><li>All features disabled</li></ul>
             </ul>
           </li>
@@ -62,7 +62,7 @@ We’re almost to the end! We've updated settings organization-wide and applied 
             <ul>
               <li>Voicemail: Disabled</li>
               <li>Call Recording: Enabled</li>
-              <li>Hide Calling Settings:<i> Click define custom user settings to see existing settings</i></li>
+              <li>Hide Calling Settings:<i> Click define custom user settings to see existing settings</i>
               <ul><li>Call Settings: Block caller ID: Disabled
               <li>Voicemail: All settings: Disabled</li></ul>
             </ul></ul></li>
@@ -78,7 +78,7 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <li>Allow video downloads: Disabled</li>
               <li>Enable highlights generation: Disabled</li>
               <li>Enable chapters &amp; description generation: Disabled</li>
-              <li>Required classifications: Enabled</li>
+              <li>Required classifications: Enabled
              <ul><li>Classification added: Rainbow Raccoon</li></ul>
          </ul>
       </td>

@@ -48,7 +48,7 @@ The [Organization default vs template settings chart](template_assets/OrgSetting
         <p><strong>Custom Dictionary</strong></p>
         <ul>
           <li>Download CSV template</li>
-          <li>Edit CSV</li>
+          <li>Edit CSV
           <ul><li>Add PixelPals, PixelPunk, RainbowRaccoon, and CoinDash</li></ul>
         </ul>
       </td>
@@ -133,9 +133,9 @@ The [Organization default vs template settings chart](template_assets/OrgSetting
       <td>
         <p><strong>Virtual backgrounds</strong></p>
         <ul>
-          <li>Allow virtual backgrounds: Keep default settings</li>
-          <ul><li>Enforce virtual backgrounds for internal and external: Enable</li></ul>
-          <ul><li>Allow all admin-uploaded backgrounds for internal and external: Enable</li></ul>
+          <li>Allow virtual backgrounds: Keep default settings
+          <ul><li>Enforce virtual backgrounds for internal and external: Enable</ul>
+          <ul><li>Allow all admin-uploaded backgrounds for internal and external: Enable</ul>
           <li>Upload: Upload PPS_virtualbackground.jpg (linked below) 
         </ul>
       </td>
@@ -217,9 +217,9 @@ The [Organization default vs template settings chart](template_assets/OrgSetting
       <td>
         <p><strong>Virtual background</strong></p>
         <ul>
-          <li>Allow Webex backgrounds: Enable</li>
+          <li>Allow Webex backgrounds: Enable
           <ul><li>Disable all others</li></ul></ul>
-             <ul><li>Enforce virtual backgrounds for internal and external: Enable</li>
+             <ul><li>Enforce virtual backgrounds for internal and external: Enable
           <ul><li>Allow all admin-uploaded backgrounds for internal and external: Enable</li></ul>
         </ul>
       </td>
@@ -243,7 +243,7 @@ The [Organization default vs template settings chart](template_assets/OrgSetting
         Create template and click next. 
       </td>
       <td>
-        <ul><strong>Apply template to PPS Contractors Group.</strong></ul>
+        <ul><strong>Apply template to PPS Contractors Group</strong></ul>
       </td>
     </tr>
   </tbody>

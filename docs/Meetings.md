@@ -88,8 +88,8 @@ The [Meetings default vs template settings chart](template_assets/MeetingsSettin
         To reduce telephony costs, we want to limit contractors to “Toll” only. Although we do encourage use of computer audio for all meetings.
       </td>
       <td>
-        <p><strong>Telephony</strong></p>
-        <p><strong>Call in</strong></p>
+      <strong>Telephony</strong><p>
+        <strong>Call in</strong>
         <ul>
           <li>Enable Toll</li>
         </ul>
