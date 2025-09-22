@@ -40,3 +40,12 @@ Kellie Melby, Eric Steele, Stefan Mauk
 In this lab, you’ll simulate a real-world organization, Pixel Pals Studios, that employs both full-time employees and external contractors. To maintain security and productivity, the IT admin needs to ensure that full-time employees have access to the full range of Webex Suite features, while contractors are assigned a more restricted set of tools to minimize security risks and unnecessary access.
 
 ## Resources
+
+<a href="academy.webex.com" target="_blank">Webex Academy</a>
+
+<a href="help.webex.com" target="_blank">Webex Help Center</a>
+
+<a href="https://adopt.webex.com/deploy-and-manage/webex-suite/get-started" target="_blank">Webex Adoption: Set up for success</a>
+
+<a href="https://adopt.webex.com/deploy-and-manage/admin-support/launch-kits" target="_blank">Webex Adoption: Launch kits</a>
+
