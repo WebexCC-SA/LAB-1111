@@ -3,7 +3,7 @@ Now that we've configured Webex Suite settings, groups, locations, and users, le
 
 - In this lab
     - Navigate the Analytics page and explore various dashboards
-    - Create a dashboards
+    - Create a dashboard
     - Set up alerts for critical metrics
 ### Alerts
 <table>

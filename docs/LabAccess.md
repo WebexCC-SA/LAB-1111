@@ -12,11 +12,6 @@
 <ul>
   <li>The labs in the left navigation bar are arranged in the order you should complete them, based on their dependencies</li>
   <li>You can also navigate between labs using the <strong>Previous</strong> and <strong>Next</strong> options at the bottom of each page</li>
-  <li>Most labs are structured with two columns:
-    <ul>
-      <li>Column 1: Business use case or problem and the solution using Webex features</li>
-      <li>Column 2: Control Hub navigation and configuration instructions</li>
-    </ul>
   </li>
   <li>Look for hints and tips throughout the labs, which are displayed in <em>italics</em></li>
   <li>Please note, if you work ahead, questions cannot be answered until the group reaches that topic</li>
