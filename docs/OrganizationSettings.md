@@ -137,13 +137,13 @@ The [Organization default vs template settings chart](template_assets/OrgSetting
           <li>Allow virtual backgrounds: Keep default settings
           <ul><li>Enforce virtual backgrounds for internal and external: Enable</ul>
           <ul><li>Allow all admin-uploaded backgrounds for internal and external: Enable</ul>
-          <li>Upload: Upload PPS_virtualbackground.jpg (linked below) 
+          <li>Upload: <a href="https://webexcc-sa.github.io/LAB-1111/template_assets/PPS_virtualbackground.jpg" target="_blank">PPS_virtualbackground.jpg</a><ul><li><i>Opens in a new tab. Right click image to save to your desktop and then upload.</i>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
-[PPS Virtual Background](template_assets/PPS_virtualbackground.jpg){:target="_blank"}: <i>Opens in a new tab. Right click to save image to your desktop.</i>
+
 
 ### General template
 
