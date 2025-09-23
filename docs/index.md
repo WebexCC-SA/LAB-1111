@@ -1,9 +1,9 @@
 # Overview
 
 ## Welcome
+Join at <a href="https://slido.com" target="_blank">Slido.com</a> to participate in today's polls! Participant Code: #ControlHub<p>
+Join the conversation in our <a href="https://eurl.io/#hkNqctkpX" target="_blank">Webex Space</a>, Optimizing Webex Suite for Control Hub Administrators.<p>
 ![Welcome](template_assets/WelcomeSlides.gif)
-
-
 ## Learning objectives
 
 By the end of the lab, participants will:

@@ -1,12 +1,7 @@
 # Lab 2 - First steps to optimization
 Before we dive into all the specific features of the Webex Suite, we'll need to lay the foundation for customized experiences using locations and groups. Locations organize users and devices by site, while Users and Groups streamline administration and policy management.
 
-- In this lab
-    - Set up locations to represent where your users and devices are based
-    - Organize users into groups for tailored management
 ### Locations
-Locations help you organize users and devices based on their physical or organizational sites, making it easier to manage settings and resources.
-
 <table>
   <thead>
     <tr>
@@ -51,8 +46,6 @@ Locations help you organize users and devices based on their physical or organiz
 </table>
 
 ### Users and Groups
-Users and Groups allow you to manage individual users and organize them into logical groups for streamlined administration and targeted policy application.
-
 <table>
   <thead>
     <tr>

@@ -1,12 +1,7 @@
 # Lab 3 - Organization settings & general template
-Organization settings form the backbone of your company’s Webex environment, providing consistency, security, and a customized experience for all users and devices. Some of these settings are best applied organization-wide, while others may be tailored using a template for specific groups of users. 
+Organization settings form the backbone of your company’s Webex environment, providing consistency, security, and a customized experience for all users and devices. Some of these settings are best applied organization-wide, while others may be tailored using a template for specific groups of users. In this exercise, we’ll explore how to configure both types to best meet your organization’s needs.
 
-- In this lab
-    - Explore default organization settings and identify which can be customized
-    - Apply organization-wide settings to ensure consistency and security across all users and devices
-    - Use templates to tailor settings for specific groups within your organization
-- The [Organization default vs template settings chart](template_assets/OrgSettings.pdf){:target="_blank"} shows which organization settings are set by default and which you can change for groups using the template
-    - Use the chart as a quick reference to see default settings versus customizable options to fit your organization’s needs
+The [Organization default vs template settings chart](template_assets/OrgSettings.pdf){:target="_blank"} shows which organization settings are set by default and which you can change for groups using the template. Use the chart as a quick reference to see default settings versus customizable options to fit your organization’s needs
 
 ### Organization settings
 <table>

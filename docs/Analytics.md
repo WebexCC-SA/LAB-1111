@@ -1,11 +1,8 @@
 # Lab 10 - Alerts and analytics
 Now that we've configured Webex Suite settings, groups, locations, and users, let's explore how to stay informed and proactive by using alerts and analytics.<p>
 
-- In this lab
-    - Navigate the Analytics page and explore various dashboards
-    - Create a dashboard
-    - Set up alerts for critical metrics
 ### Alerts
+![Alerts in Control Hub](template_assets/Alerts.gif)
 <table>
   <colgroup>
     <col style="width:40%">
@@ -141,3 +138,4 @@ Now that we've configured Webex Suite settings, groups, locations, and users, le
     </tr>
   </tbody>
 </table>
+>![Think about it](template_assets/thinkingcat.png) Think about it: What do you need to see on your dashboard to continue to optimize Webex as usage ebbs and flows?

@@ -1,10 +1,5 @@
 # Lab 8 - Devices and workspaces
-Webex devices and workspaces enable secure collaboration by supporting meetings, calling, and content sharing in both personal and shared spaces.
-
-- In this lab
-    - Create and configure both shared and personal workspaces
-    - Explore the features available for each type of workspace
-    - Get hands-on experience with Cisco's Workspace Designer
+Webex devices and workspaces enhance collaboration across the Webex Suite, supporting a secure and productive hybrid work environment. In this lab, you'll create and configure both shared and personal workspaces and explore the features available for each. You'll also get hands-on experience with Cisco's Workspace Designer.
 
 ### Assigning devices
 

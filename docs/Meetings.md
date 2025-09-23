@@ -1,11 +1,7 @@
 # Lab 5 - Meetings
-Webex Meetings offers a wide range of features for hosts and cohosts. And with Webex, the most secure.
+Webex Meetings offers a wide range of features for hosts and cohosts. And with Webex, the most secure.  In this lab, you'll review which settings may need adjustment for your organization. Then, following the approach from earlier labs, you'll create and apply a template with specific limitations for a user group that requires additional controls.
 
-- In this lab:
-    - Review which settings may need adjustment for your organization
-    - Following the approach from earlier labs, create and apply a template with specific limitations for a user group that requires additional controls
-- The [Meetings default vs template settings chart](template_assets/MeetingsSetting.pdf){:target="_blank"} chart shows which Meetings settings are set by default and which you can change for groups using the template
-    - Use the chart as a quick reference to compare default settings with customizable options to fit your organization’s needs
+The [Meetings default vs template settings chart](template_assets/MeetingsSetting.pdf){:target="_blank"} chart shows which Meetings settings are set by default and which you can change for groups using the template. Use the chart as a quick reference to compare default settings with customizable options to fit your organization’s needs.
 <table>
   <tbody>
     <tr>
