@@ -4,6 +4,7 @@
 Join at <a href="https://slido.com" target="_blank">Slido.com</a> to participate in today's polls! Participant Code: #ControlHub<p>
 Join the conversation in our <a href="https://eurl.io/#hkNqctkpX" target="_blank">Webex Space</a>, Optimizing Webex Suite for Control Hub Administrators.<p>
 ![Welcome](template_assets/WelcomeSlides.gif)
+
 ## Learning objectives
 
 By the end of the lab, participants will:
@@ -48,4 +49,3 @@ In this lab, you’ll simulate a real-world organization, Pixel Pals Studios, th
 <a href="https://adopt.webex.com/deploy-and-manage/webex-suite/get-started" target="_blank">Webex Adoption: Set up for success</a>
 
 <a href="https://adopt.webex.com/deploy-and-manage/admin-support/launch-kits" target="_blank">Webex Adoption: Launch kits</a>
-

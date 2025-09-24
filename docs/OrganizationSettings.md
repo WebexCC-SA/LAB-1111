@@ -8,10 +8,12 @@ The [Organization default vs template settings chart](template_assets/OrgSetting
   <thead>
     <tr>
       <th style="width:40%"><strong>Use case & solution</strong></th>
-      <td style="width:60%"><strong><a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Management &gt; Organization Settings</strong><p><i>Pro tip: Use Ctrl+F (PC) or Cmd+F (Mac) to find the setting on the page instead of scrolling.</i></th>
+      <td style="width:60%"><strong><a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Management &gt; Organization Settings</strong></th>
     </tr>
   </thead>
-  <tbody><td>
+  <tbody> <tr>
+      <td colspan="2;"><i>Pro tip: Use Ctrl+F (PC) or Cmd+F (Mac) to find the setting on the page instead of scrolling.</i>
+      </td></tr><td>
         In the Webex App, employees and contractors should only be able to message internally and with approved external vendors, such as Cisco and Temp Recruiters, Inc.<br>   <ul>
                 <li> Allow messaging with approved domains.</li>
                 </ul>
@@ -20,8 +22,10 @@ The [Organization default vs template settings chart](template_assets/OrgSetting
         <p><strong>External Communication &gt; External messaging</strong></p>
         <ul>
           <li>Allow selected domains only: Enable</li>
-          <li>Manage allowed domains</li>
-          <li>Add cisco.com, temprecruiters.com</li>
+          <li>Manage allowed domains
+          <ul><li>Add cisco.com, temprecruiters.com</li>
+          <li> <i>You must check domains before clicking add</i>
+          </ul>
         </ul>
       </td>
     </tr>
@@ -41,7 +45,7 @@ The [Organization default vs template settings chart](template_assets/OrgSetting
     </tr>
     <tr>
       <td>
-        PixelPals has several characters, games, and their propriety game engine that are not common words. They don’t want spell check to offer suggestions for them when using Messaging.<br>   <ul>
+        PixelPals wants their unique character names, games, and proprietary game engine terms to be excluded from spell check suggestions in Messaging and displayed correctly in meeting transcriptions.<br>   <ul>
                 <li> Add unique words to the custom dictionary.</li>
                 </ul>
       </td>

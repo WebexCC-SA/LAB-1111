@@ -7,8 +7,7 @@ Before we dive into all the specific features of the Webex Suite, we'll need to 
     <tr>
       <th style="width:40%"><strong>Use case & solution</strong></th>
       <th style="width:60%"><strong>
-        <a href="http://admin.webex.com/" target="_blank">Control Hub</a> navigation
-      </strong></th>
+        <a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Management &gt; Locations &gt; dCloud</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -20,7 +19,7 @@ Before we dive into all the specific features of the Webex Suite, we'll need to 
       </td>
       <td>
         <ul>
-          <strong>Management &gt; Locations &gt; dCloud &gt; Location Info &gt; Edit (Pencil Icon)</strong>
+          <strong>Overview > Location Info &gt; Edit (Pencil Icon)</strong>
           <p>
             <li>Location name: PPS Corporate</li>
           </p>
@@ -35,7 +34,7 @@ Before we dive into all the specific features of the Webex Suite, we'll need to 
                 
       </td>
       <td>
-        <p><strong>Overview &gt; Floors &gt; Add floor</strong></p>
+        <p><strong>Floors &gt; Add floor</strong></p>
         <ul>
           <li>Floor number: 10</li>
           <li>Floor name: RainbowRaccoon Floor</li>
@@ -45,26 +44,28 @@ Before we dive into all the specific features of the Webex Suite, we'll need to 
   </tbody>
 </table>
 
-### Users and Groups
+### Users
 <table>
   <thead>
     <tr>
       <th style="width:40%"><strong>Use case & solution</strong></th>
       <th style="width:60%"><strong>
-        <a href="http://admin.webex.com/" target="_blank">Control Hub</a> navigation
+        <a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Management &gt; Users
       </strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td colspan="2;"><i>Pro tip: As a shortcut, use the AI-powered smart search bar at the top of Control Hub to search by the user's name.</i>
+      </td></tr>
+      <tr><td>
         As the main contact for contractor accounts, Ricardo Filice needs to manage their access efficiently and securely. For compliance, he should not have access to all organization-wide settings in Control Hub.<br>   <ul>
                 <li> Assign the appropriate admin role to Ricardo.</li><p>
                  <a href="https://help.webex.com/en-us/article/fs78p5/Assign-organization-account-roles-in-Control-Hub#id_117861" target="_blank">Admin role descriptions</a>
                 </ul>
       </td>
       <td>
-        <p><strong>Management &gt; Users &gt; Ricardo Filice &gt; Summary &gt; Administrator roles</strong></p>
+        <p><strong>Ricardo Filice &gt; Summary &gt; Administrator roles</strong></p>
         <ul>
           <li>Grant the User and Device admin role</li>
         </ul>
@@ -78,8 +79,14 @@ Before we dive into all the specific features of the Webex Suite, we'll need to 
                 </ul>
       </td>
       <td>
-        <p><strong>Management &gt; Users &gt; Kellie Melby</strong></p>
-        <p>Look at Kellie’s user profile. Don’t make any changes!</p>
+        <p><strong>Kellie Melby</strong></p>
+        <p>Look at Kellie’s user profile. Don’t make any changes!</p>  <ul>
+          <li><strong>Summary</strong>
+            <ul>
+              <li>Groups</li>
+              <li>Licenses</li>
+            </ul>
+          </li>
         <ul>
           <li><strong>General</strong>
             <ul>
@@ -110,15 +117,26 @@ Before we dive into all the specific features of the Webex Suite, we'll need to 
         </ul>
       </td>
     </tr>
+   </tbody></table>
+
+### Groups
+   <table>
+        <thead>
     <tr>
+      <th style="width:40%"><strong>Use case & solution</strong></th>
+      <th style="width:60%"><strong>
+        <a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Management &gt; Groups > Webex groups
+      </strong></th>
+    </tr>
+  </thead>
+  <tbody> <tr>
       <td>
         PixelPals Studios needs to efficiently manage user access and feature settings based on users’ employment type.<br><ul>
-                <li>Create a Group and assign appropriate users.</li>
+                <li>Create a Group and assign appropriate users.</li><br>
               <a href="https://help.webex.com/en-us/article/7eedy0/Group-management" target="_blank">More about Group management.</a>
                 </ul>
       </td>
       <td>
-        <p><strong>Management &gt; Groups &gt; Create Group</strong></p>
         <ul>
           <li>Create a Group
             <ul>
@@ -131,10 +149,10 @@ Before we dive into all the specific features of the Webex Suite, we'll need to 
             <li>Assign group resources
             <ul>
               <li>Licenses > Set up
-              <ul><li>Advanced Messaging, Webex Assistant for Meetings, Webex Meetings Suite, Webex Calling Professional
-            <li><i>No need to apply to existing users. They already have these licenses.</i>
-          </ul>
-        </ul>
+              <ul><li>Messaging: Advanced Messaging
+              <li>Meeting: Webex Assistant for Meetings, Webex Meetings Suite
+              <li>Calling: Webex Calling Professional</li>
+          </ul></ul></li><p><i>No need to apply to existing users. They already have these licenses.</i>
       </td>
     </tr>
   </tbody>

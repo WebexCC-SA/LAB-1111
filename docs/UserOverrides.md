@@ -22,7 +22,6 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <ul><li>Space summaries, rewrite message, & message translation: Enabled</ul></ul>
               <ul><li> Meetings
               <ul><li>All features enabled</li></ul>
-            
           </li>
           <li><strong>Calling</strong>
             <ul>
