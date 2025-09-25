@@ -5,7 +5,7 @@ We’re almost to the end! We've updated settings organization-wide and applied 
   <tbody>
     <tr>
       <th style="width:40%;">Use case & solution</th>
-      <th style="width:60%;"><a href="http://admin.webex.com/" target="_blank">Control Hub</a> navigation</th>
+      <th style="width:60%;"><a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Management &gt; Users</th>
     </tr>
     <tr>
       <td style="width:40%;">
@@ -13,15 +13,13 @@ We’re almost to the end! We've updated settings organization-wide and applied 
     Don't make any changes!<p><i>Hint: As a shortcut, use the AI-powered smart search bar at the top of Control Hub to search for Anita Perez.</i>
       </td>
       <td style="width:60%;">
-        <p><strong>Management &gt; Users &gt; Anita Perez</strong></p>
+        <p><strong>Anita Perez</strong></p>
    
          <strong>General</strong><p>
           General template applied: None</p>
 <ul>
-<li>Messaging
-              <ul><li>Space summaries, rewrite message, & message translation: Enabled</ul></ul>
-              <ul><li> Meetings
-              <ul><li>All features enabled</li></ul>
+<li>Messaging: Space summaries, rewrite message, & message translation: Enabled</ul></ul>
+              <ul><li> Meetings: All features enabled</li></ul>
           </li>
           <strong>Calling</strong>
             <ul>
@@ -31,15 +29,15 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <ul><li>Call Settings: Block caller ID: Disabled
               <li>Voicemail: All settings: Disabled</li></ul>
             </ul></ul></li>
-          <li><strong>Messaging: Collaboration Restrictions</strong></li>
+          <strong>Messaging: Collaboration Restrictions</strong></li>
               <ul>
               <li>Animated GIFs, Bitmoji stickers, and previewing links: Enabled</li></ul>
             </ul>
-          </li> <li><strong>Devices</strong></li>
+          </li> <strong>Devices</strong></li>
               <ul>
               <li>2 devices: 9841 and 9851</li></ul>
             </ul>
-          </li> <li><strong>Vidcast</strong> <ul>
+          </li> <strong>Vidcast</strong> <ul>
               <li>Required classifications: Enabled</li>
                <ul><li>Classifications added: RainbowRaccoon, PixelPunk, CoinDash</li></ul>
       </td>
@@ -50,18 +48,16 @@ We’re almost to the end! We've updated settings organization-wide and applied 
     Don't make any changes!<p><i>Hint: As a shortcut, use the AI-powered smart search bar at the top of Control Hub to search for Kellie Melby.</i>
       </td>
       <td style="width:60%;">
-        <p><strong>Management &gt; Users &gt; Kellie Melby</strong></p>
+        <p><strong>Kellie Melby</strong></p>
         <strong>General</strong><p>
           General template applied: PPS Contractors</p>
            <ul>
-              <li>Messaging
-              <ul> <li>Space summaries: Disabled</li></ul></ul>
+              <li>Messaging: Space summaries: Disabled</li></ul></ul>
               <ul>
-              <li> Meetings
-              <ul><li>All features disabled</li></ul>
+              <li> Meetings: All features disabled</li></ul>
             </ul>
           </li>
-             <li><strong>Calling</strong>
+             <strong>Calling</strong>
             <ul>
               <li>Voicemail: Disabled</li>
               <li>Call Recording: On</li>
@@ -69,16 +65,16 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <ul><li>Call Settings: Block caller ID: Disabled
               <li>Voicemail: All settings: Disabled</li></ul>
             </ul></ul></li>
-          <li><strong>Messaging: Collaboration Restrictions</strong></li>
+          <strong>Messaging: Collaboration Restrictions</strong></li>
               <ul>
               <li>Bitmoji stickers sharing: Disabled</li></ul>
             </ul>
           </li>
-        </ul> <li><strong>Devices</strong></li>
+        </ul> <strong>Devices</strong></li>
               <ul>
-              <li>1 devices: 9851</li></ul>
+              <li>1 device: 9851</li></ul>
             </ul>
-          <li><strong>Vidcast</strong> <ul>
+          <strong>Vidcast</strong> <ul>
               <li>Allow importing of Webex Meeting: Disabled</li>
               <li>Allow external sharing: Disabled</li>
               <li>Allow video downloads: Disabled</li>

@@ -243,12 +243,16 @@ The [Organization default vs template settings chart](template_assets/OrgSetting
         </ul>
       </td>
     </tr>
-    <tr>
+   <tr>
       <td>
-        Create template and click next. 
+        Apply template to PPS Contractor Group
       </td>
       <td>
-        <ul><strong>Apply template to PPS Contractors Group</strong></ul>
+        <ul>
+          <li>Click Create template and next</li>
+          <li>Search “PPS Contractor Group”</li>
+          <li>Click Done</li>
+        </ul>
       </td>
     </tr>
   </tbody>

@@ -72,6 +72,17 @@ The [Vidcast default vs template settings chart](template_assets/VidcastSettings
           <li>Allow video downloads: Disable</li>
         </ul>
       </td>
+    </tr>  <tr>
+      <td>
+        Apply template to PPS Contractor Group
+      </td>
+      <td>
+        <ul>
+          <li>Click Create template and next</li>
+          <li>Search “PPS Contractor Group”</li>
+          <li>Click Done</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
