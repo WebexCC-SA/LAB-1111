@@ -21,15 +21,22 @@ We’re almost to the end! We've updated settings organization-wide and applied 
 <li>Messaging: Space summaries, rewrite message, & message translation: Enabled</ul></ul>
               <ul><li> Meetings: All features enabled</li></ul>
           </li>
-          <strong>Calling</strong>
+          <strong>Meetings</strong><p>
+         Meeting template applied: None<p>
+            <ul>
+              <li>Something here Enabled</ul>
+<strong>Calling</strong><p>
+          User calling template applied: None<p>
+          Webex App calling template applied: None
             <ul>
               <li>Voicemail: Enabled</li>
               <li>Call Recording: On</li>
               <li>Hide Calling Settings:<i> Click define custom user settings to see existing settings</i></li>
               <ul><li>Call Settings: Block caller ID: Disabled
               <li>Voicemail: All settings: Disabled</li></ul>
-            </ul></ul></li>
-          <strong>Messaging: Collaboration Restrictions</strong></li>
+            </ul>
+          <strong>Messaging: Collaboration Restrictions</strong><p>
+          Messaging calling template applied: None<p>
               <ul>
               <li>Animated GIFs, Bitmoji stickers, and previewing links: Enabled</li></ul>
             </ul>
@@ -37,7 +44,8 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <ul>
               <li>2 devices: 9841 and 9851</li></ul>
             </ul>
-          </li> <strong>Vidcast</strong> <ul>
+          </li> <strong>Vidcast</strong><p>
+         Vidcast template applied: None<p><ul>
               <li>Required classifications: Enabled</li>
                <ul><li>Classifications added: RainbowRaccoon, PixelPunk, CoinDash</li></ul>
       </td>
@@ -56,8 +64,13 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <ul>
               <li> Meetings: All features disabled</li></ul>
             </ul>
-          </li>
-             <strong>Calling</strong>
+          </li>  <strong>Meetings</strong><p>
+         Meeting template applied: PPS Contractors<p>
+            <ul>
+              <li>Something here Enabled</ul>
+             <strong>Calling</strong><p>
+         User calling template applied: None<p>
+          Webex App calling template applied: PPS Contractors
             <ul>
               <li>Voicemail: Disabled</li>
               <li>Call Recording: On</li>
@@ -65,7 +78,8 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <ul><li>Call Settings: Block caller ID: Disabled
               <li>Voicemail: All settings: Disabled</li></ul>
             </ul></ul></li>
-          <strong>Messaging: Collaboration Restrictions</strong></li>
+          <strong>Messaging: Collaboration Restrictions</strong><p>
+         Messaging template applied: PPS Contractors<p>
               <ul>
               <li>Bitmoji stickers sharing: Disabled</li></ul>
             </ul>
@@ -74,7 +88,8 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <ul>
               <li>1 device: 9851</li></ul>
             </ul>
-          <strong>Vidcast</strong> <ul>
+          <strong>Vidcast</strong><p>
+         Vidcast template applied: PPS Contractors<p> <ul>
               <li>Allow importing of Webex Meeting: Disabled</li>
               <li>Allow external sharing: Disabled</li>
               <li>Allow video downloads: Disabled</li>
