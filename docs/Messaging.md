@@ -46,7 +46,7 @@ The [Messaging default vs template settings chart](template_assets/MessagingSett
     <tr>
       <td>
         <ul>
-          Restricting Bitmojis for contractors helps reduce inappropriate content risks, maintain consistent communication, and ensure compliance with company policies.
+        Restricting Bitmojis for contractors helps reduce inappropriate content risks, maintain consistent communication, and ensure compliance with company policies.
         </ul>
       </td>
       <td>
@@ -56,13 +56,13 @@ The [Messaging default vs template settings chart](template_assets/MessagingSett
         </ul>
       </td>
     </tr>
-    <tr>
+  <tr>
       <td>
-        <!-- Intentionally left blank as there is no use case description for this step in your original table -->
+        Apply template to PPS Contractor Group
       </td>
       <td>
-        <p><strong>Create Template &gt; Apply</strong></p>
         <ul>
+          <li>Click Create template and next</li>
           <li>Search “PPS Contractor Group”</li>
           <li>Click Done</li>
         </ul>

@@ -11,20 +11,21 @@ Now that we've configured Webex Suite settings, groups, locations, and users, le
   <tbody>
     <tr>
       <th>Use case and solution</th>
-      <th><a href="http://admin.webex.com/" target="_blank">Control Hub</a> navigation</th>
+      <th><a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Alert Center</th>
     </tr>
     <tr>
       <td>
-        This is where critical alerts created automatically by Webex services will show. Looks like you’re all caught up for now!
+        <a href="https://help.webex.com/en-us/article/mykour/Alert-Center-in-Control-Hub" target="_blank">Alert Center</a> is where critical alerts created automatically by Webex services will show. Looks like you’re all caught up for now!
       </td>
       <td>
-        <strong><a href="https://help.webex.com/en-us/article/mykour/Alert-Center-in-Control-Hub" target="_blank">Alert Center</a> &gt; Alerts</strong>
+        <strong>Alerts > All alerts</strong>
       </td>
     </tr>
     <tr>
       <td>
-        <p>Let’s look how we can get notification on some that may be of importance to us.</p>
-        <p>We’re usually on top of these types of things, but I like all the notifications I can get!</p>
+        <p>Let’s look how we can get notification on a prebuilt rule that may be of importance to us.</p>
+        <p>We’re usually on top of these types of things, but I like all the notifications I can get!</p><p>
+        The IT staff needs be alerted if my SSO Identity Provider (IdP) certificate is expiring so I can renew it before it interrupts service for end-users.
       </td>
       <td>
         <p><strong>Manage &gt; All rules</strong></p>
@@ -47,17 +48,18 @@ Now that we've configured Webex Suite settings, groups, locations, and users, le
       </td>
       <td>
         <p><strong>Manage &gt; Create rule</strong></p>
-        <ul>
+        <ul><li>Summary<ul>
           <li>Service: Devices</li>
-          <li>Type – RoomOS operational alerts</li>
-          <li>Severity – High</li>
+          <li>Type: RoomOS operational alerts</li>
+          <li>Severity:High</li>
           <li>Title – RoomOS Code Red</li>
-          <li>Target – All devices</li>
-          <li>Check email</li>
-          <li>Add email</li>
-          <li>Check Webex space</li>
-          <li>Check – 1 to 1 bot</li>
-          <li>Add email</li>
+          <li>Target – All devices</li></ul>
+          <li>Delivery channel
+          <ul><li>Email: enable<ul>
+          <li>Email address: admin@pps.com</ul>
+          <li>Webex space: enable<ul>
+          <li>1 to 1 bot: enable</li>
+          <li>Email address: bot@pps.com</li>
         </ul>
       </td>
     </tr>
@@ -83,7 +85,7 @@ Now that we've configured Webex Suite settings, groups, locations, and users, le
   <thead>
     <tr>
       <th>Description</th>
-      <th><a href="http://admin.webex.com/" target="_blank">Control Hub</a> Navigation</th>
+      <th><a href="http://admin.webex.com/" target="_blank">Control Hub</a> > Monitoring > Analytics</th>
     </tr>
   </thead>
   <tbody>
@@ -92,7 +94,7 @@ Now that we've configured Webex Suite settings, groups, locations, and users, le
         <p>No action to take but observe the summary page.</p>
       </td>
       <td>
-          <strong>Monitoring > Analytics > Summary</strong>
+          <strong> Summary</strong>
            <ul><li>Click across the top options and note the different widgets providing data. (Meetings, Messaging, Calling, etc.)</li></ul>
       </td>
     </tr>
@@ -101,7 +103,7 @@ Now that we've configured Webex Suite settings, groups, locations, and users, le
         <p>Let’s check utilization of the Rainbow Think Tank! When you start adding more workspaces and devices, there are times when you’d like to review one workspace.</p>
       </td>
       <td>
-       <strong>Monitoring > Analytics > Workspaces > Filters</strong>
+       <strong>Workspaces > Filters</strong>
         <ul>
           <li>Select a dimension
           <ul><li>Workspace name
@@ -117,18 +119,19 @@ Now that we've configured Webex Suite settings, groups, locations, and users, le
         <strong>Create a dashboard with multiple sections, each with data for a different workload</strong>
       </td>
       <td>
-        <strong>Monitoring > Analytics > My Dashboards > Add Dashboard > Edit Dashboard</strong><br>
- <ul><li>New Dashboard 1 tab: Change name to Meetings
-           <ul><li><i>Click into the tab. It's to the right of Summary</i></ul>
+        <strong>My Dashboards > Add Dashboard > Edit Dashboard</strong><br>
+ <ul><li>New Dashboard 1 tab: Change name to Cross-Service Analytics
+           <ul><li><i>Click into the tab. It's to the right of Summary.</i></ul>
    <li>Change Section Name 1: Meetings
             <ul><li><i>Click on the text in the horizontal box</i></ul>
   <li>Add Widgets
     <ul>
       <li>Service: Meetings
           <li>Metrics: All
-          <li>Widgets: Select 5
-          <li>Dashboard section: Meetings<ul>
-          <li><i>Use the plus sign to add & make sure to click Add widget at the bottom </i></ul>
+          <li>Dashboard section: Meetings
+          <li>Available Widgets: Select 5<uL>
+          <li>Note the KPIs, Charts, & Tables
+          <li><i>Use the plus sign to add & make sure to click Add widget at the bottom </i></ul></ul>
   <li>Create a new section
   <ul><li><i>Scroll down to find the plus sign</i>
 </ul><li>Follow steps above starting with "Change Section Name"

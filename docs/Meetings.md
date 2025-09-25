@@ -10,14 +10,16 @@ The [Meetings default vs template settings chart](template_assets/MeetingsSettin
         <a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Services &gt; Meeting &gt; Templates
       </th>
     </tr>
-    <tr>
+   <tr>
       <td>
-        <strong>Create template</strong>
+          Pixel Pals Studios needs to create a meeeting template for contractors to ensure these users have only the features necessary for their roles.
+      </td>
+      <td>
+        <p><strong>Create Template</strong></p>
         <ul>
           <li>Template Name: PPS Contractors</li>
           <li>Description: Internal Meetings</li>
         </ul>
-      </td><td>
       </td>
     </tr>
     <tr>
@@ -26,24 +28,24 @@ The [Meetings default vs template settings chart](template_assets/MeetingsSettin
       </td>
       <td style="width:60%;">
         <p><strong>Meetings</strong></p>
-        <p><strong>Internal</strong></p>
+        Internal
         <ul>
-          <li>Block all external users</li>
+          <li>Block all external users
         </ul>
-        <p><strong>External</strong></p>
+        <p>External</p>
         <ul>
           <li>Allow approved external sites</li>
           <li>Add: cisco.webex.com, temprecruiters.webex.com</li>
         </ul>
       </td>
-    </tr><tr><td colspan="2;"><i>Tip: In each grouping going forward, Internal meetings setting is the first column; External meeting setting is the second.</td></tr>
+    </tr><tr><td colspan="2;"><i>Tip: In each grouping going forward, Internal meeting setting is the first column; External meeting setting is the second.</td></tr>
     <tr>
       <td>
         Disabling Slido for contractors prevents them from starting polls or Q&amp;A sessions, which could otherwise lead to distractions or sharing of unintended information.
       </td>
       <td>
         <p><strong>Collaboration tools</strong></p>
-          <strong>Polling, Q&amp;A, Slido</strong>
+          Polling, Q&amp;A, Slido
           <ul><li>Internal meeting and External meeting: Disable</li>
         </ul>
       </td>
@@ -54,7 +56,7 @@ The [Meetings default vs template settings chart](template_assets/MeetingsSettin
       </td>
       <td>
         <p><strong>Recording</strong></p>
-        <p><strong>Cloud recording &amp; Local Recording</strong></p>
+        <p>Cloud recording &amp; Local Recording</p>
         <ul>
           <li>Internal meeting and External meeting: Disable</li>
         </ul>
@@ -89,11 +91,11 @@ The [Meetings default vs template settings chart](template_assets/MeetingsSettin
       </td>
       <td>
       <strong>Telephony</strong><p>
-        <strong>Call in</strong>
+        Call in
         <ul>
           <li>Enable Toll</li>
         </ul>
-        <p><strong>Call back</strong></p>
+        <p>Call back</p>
         <ul>
           <li>Disable Host only</li>
         </ul>

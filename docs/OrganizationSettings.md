@@ -107,7 +107,7 @@ The [Organization default vs template settings chart](template_assets/OrgSetting
                 </ul>
       </td>
       <td>
-        <p><strong>Cisco AI Assistant &amp; AI features &gt; Customize</strong></p>
+        <p><strong>Cisco AI Assistant &amp; AI features &gt; Customize AI Assistant & AI features</strong></p>
         <ul>
           <li>Calling – Enable AI-generated summaries for call recordings</li>
         </ul>
@@ -139,7 +139,7 @@ The [Organization default vs template settings chart](template_assets/OrgSetting
         <p><strong>Virtual backgrounds</strong></p>
         <ul>
           <li>Allow virtual backgrounds: Keep default settings
-          <ul><li>Enforce virtual backgrounds for internal and external: Enable</ul>
+          <li>Enforce virtual backgrounds for internal and external: Enable
           <ul><li>Allow all admin-uploaded backgrounds for internal and external: Enable</ul>
           <li>Upload: <a href="https://webexcc-sa.github.io/LAB-1111/template_assets/PPS_virtualbackground.jpg" target="_blank">PPS_virtualbackground.jpg</a><ul><li><i>Opens in a new tab. Right click image to save to your desktop and then upload.</i>
         </ul>

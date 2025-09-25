@@ -23,10 +23,10 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <ul><li> Meetings
               <ul><li>All features enabled</li></ul>
           </li>
-          <li><strong>Calling</strong>
+          <strong>Calling</strong>
             <ul>
               <li>Voicemail: Enabled</li>
-              <li>Call Recording: Enabled</li>
+              <li>Call Recording: On</li>
               <li>Hide Calling Settings:<i> Click define custom user settings to see existing settings</i></li>
               <ul><li>Call Settings: Block caller ID: Disabled
               <li>Voicemail: All settings: Disabled</li></ul>
@@ -35,9 +35,13 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <ul>
               <li>Animated GIFs, Bitmoji stickers, and previewing links: Enabled</li></ul>
             </ul>
+          </li> <li><strong>Devices</strong></li>
+              <ul>
+              <li>2 devices: 9841 and 9851</li></ul>
+            </ul>
           </li> <li><strong>Vidcast</strong> <ul>
               <li>Required classifications: Enabled</li>
-               <ul><li>Classification added: Rainbow Raccoon</li></ul>
+               <ul><li>Classifications added: RainbowRaccoon, PixelPunk, CoinDash</li></ul>
       </td>
     </tr>
     <tr>
@@ -60,7 +64,7 @@ We’re almost to the end! We've updated settings organization-wide and applied 
              <li><strong>Calling</strong>
             <ul>
               <li>Voicemail: Disabled</li>
-              <li>Call Recording: Enabled</li>
+              <li>Call Recording: On</li>
               <li>Hide Calling Settings:<i> Click define custom user settings to see existing settings</i>
               <ul><li>Call Settings: Block caller ID: Disabled
               <li>Voicemail: All settings: Disabled</li></ul>
@@ -70,15 +74,16 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <li>Bitmoji stickers sharing: Disabled</li></ul>
             </ul>
           </li>
-        </ul>
+        </ul> <li><strong>Devices</strong></li>
+              <ul>
+              <li>1 devices: 9851</li></ul>
+            </ul>
           <li><strong>Vidcast</strong> <ul>
               <li>Allow importing of Webex Meeting: Disabled</li>
               <li>Allow external sharing: Disabled</li>
               <li>Allow video downloads: Disabled</li>
-              <li>Enable highlights generation: Disabled</li>
-              <li>Enable chapters &amp; description generation: Disabled</li>
               <li>Required classifications: Enabled
-             <ul><li>Classification added: Rainbow Raccoon</li></ul>
+             <ul><li>Classifications added: RainbowRaccoon, PixelPunk, CoinDash</li></ul>
          </ul>
       </td>
     </tr>

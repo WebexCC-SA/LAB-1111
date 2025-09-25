@@ -2,7 +2,7 @@
 
 Looking for alternatives to meetings? With Vidcast, users can quickly record, edit, and share video updates or presentations to streamline communication. In this lab, you'll review and set organization-wide settings, then create a template tailored for a specific user group-just as in previous labs.
 
-The [Vidcast default vs template settings chart](template_assets/VidcastSettings.pdf){:target="_blank"}shows which Vidcast settings are set by default and which you can change for groups using the template. Use the chart as a quick reference to see default settings versus customizable options to fit your organization’s needs.
+The [Vidcast default vs template settings chart](template_assets/VidcastSettings.pdf){:target="_blank"} shows which Vidcast settings are set by default and which you can change for groups using the template. Use the chart as a quick reference to see default settings versus customizable options to fit your organization’s needs.
 
 ### Organization settings
 <table>
@@ -13,10 +13,7 @@ The [Vidcast default vs template settings chart](template_assets/VidcastSettings
 </tr>
 <tr>
 <td style="width:40%;">
-<p>This feature helps maintain consistent video content organization and supports compliance with company policies.</p>
-<ul>
-<li>Require classifications.</li>
-</ul>
+<p>Classifications help maintain consistent video content organization and supports compliance with company policies.</p>
 </td>
 <td style="width:60%;">
 <p><strong>Classifications</strong></p>
@@ -24,7 +21,7 @@ The [Vidcast default vs template settings chart](template_assets/VidcastSettings
 <li>Require classifications: Enable</li>
 <li>Configure classification (click button)
 <ul>
-<li>Create classification: Rainbow Raccoon</li>
+<li>Create classifications: RainbowRaccoon, PixelPunk, CoinDash
 <li>Click Add</li>
 </ul>
 </ul>
@@ -45,7 +42,23 @@ The [Vidcast default vs template settings chart](template_assets/VidcastSettings
           <li>Template name: PPS Contractors</li>
           <li>Description: Internal Vidcast</li>
         </ul>
-      </td></tr>
+      </td></tr><tr>
+<td style="width:40%;">
+<p>Classifications help maintain consistent video content organization and supports compliance with company policies.</p>
+<i> Note: If we don't configure this in the template, it will override the Classification setting we did for the organization in the above step. That is, contractors would not be required to configure classifications.</i>
+</td>
+<td style="width:60%;">
+<p><strong>Classifications</strong></p>
+<ul>
+<li>Require classifications: Enable</li>
+<li>Configure classification (click button)
+<ul>
+<li>Create classifications: RainbowRaccoon, PixelPunk, CoinDash
+<li>Click Add</li>
+</ul>
+</ul>
+</td>
+</tr>
     <tr>
       <td style="width:40%;">
         <p>Disabling these settings prevents unauthorized sharing and distribution of video content, protects sensitive information, supports compliance, and ensures only trusted users manage and access content via streaming only.
@@ -57,31 +70,6 @@ The [Vidcast default vs template settings chart](template_assets/VidcastSettings
           <li>Allow importing of Webex Meeting: Disable</li>
           <li>Allow external sharing: Disable</li>
           <li>Allow video downloads: Disable</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="width:40%;">
-        <p>These AI-driven features make video content more dynamic, accessible, and user-friendly, which is especially valuable for contractors who need to quickly find and understand relevant information.</p>
-        <ul> <li>Edit available AI features</li></ul>
-      </td>
-      <td style="width:60%;">
-        <p><strong>AI Features</strong></p>
-        <ul>
-          <li>Enable highlights generation: Enable</li>
-          <li>Enable chapters &amp; description generation: Enable</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="width:40%;">
-        <p>Apply template to PPS Contractor Group</p>
-      </td>
-      <td style="width:60%;">
-        <ul>
-          <li>Click Create template and next</li>
-          <li>Search “PPS Contractor Group”</li>
-          <li>Click Done</li>
         </ul>
       </td>
     </tr>
