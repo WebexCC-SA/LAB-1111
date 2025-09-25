@@ -2,7 +2,7 @@
 
 In this lab, you'll learn how to customize your organization's messaging settings. We'll discuss possible changes at the organization level, then use the Messaging template to apply settings for a specific user group.
 
-The [Messaging default vs template settings chart](template_assets/MessagingSettings.pdf){:target="_blank"} chart shows which settings are set by default and which can be customized for groups using the template. Use the chart as a quick reference to compare default settings with customizable options to fit your organization’s needs.
+The [Messaging default vs template settings chart](template_assets/MessagingSettings.pdf){:target="_blank"} shows which settings are set by default and which can be customized for groups using the template. Use the chart as a quick reference to compare default settings with customizable options to fit your organization’s needs.
 
 <table>
   <tbody>
