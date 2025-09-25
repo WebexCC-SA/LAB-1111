@@ -66,18 +66,7 @@ The [Calling settings chart](template_assets/CallingSettings.pdf){:target="_blan
             Upload CSV file. You should see that 8 records have been updated.
       </td>
     </tr>
-    <tr>
-      <td style="width: 40%;">Spot check your import.<p> <i>Hint: As a shortcut, use the AI-powered smart search bar at the top of Control Hub to search for Kellie Melby.</i></td>
-      <td style="width: 60%;">
-        <strong>Management &gt; Users &gt; Kellie Melby &gt; Calling</strong><p>
-           Confirm the following:<ul>
-              <li>Voicemail: Disabled</li>
-              <li>User calling experience: Call Recording: on</li>
-            </ul>
-          </li>
-        </ul>
-      </td>
-    </tr>  <td style="width: 40%;">All users have the same physical phone and need the same speed dial button configured.
+     <td style="width: 40%;">All users have the same physical phone and need the same speed dial button configured.
     <p><ul><li>Create a Line Key Template
       </td>
      <td style="width: 60%;">
@@ -95,7 +84,7 @@ Line Key Label: Cisco Support<li>Destination: 18005536387</ul><li>Assign templat
   <thead>
     <tr>
       <th style="width: 40%;"><strong>Use Case & Solution</strong></th>
-      <th style="width: 60%;"><strong><a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Services &gt; Calling &gt; Settings > Webex App</strong></th>
+      <th style="width: 60%;"><strong><a href="http://admin.webex.com/" target="_blank">Control Hub</a> &gt; Services &gt; Calling &gt; Settings</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -104,7 +93,7 @@ Line Key Label: Cisco Support<li>Destination: 18005536387</ul><li>Assign templat
                 <li> Remove caller ID and voicemail settings from User Hub.</li>
                 </ul></td>
       <td style="width: 60%;">
-        <p><strong>Hide Calling Settings</strong></p>
+        <p><strong>Webex App > Hide Calling Settings</strong></p>
         <ul>
           <li>Call Settings: Disable Block caller ID</li>
           <li>Voicemail: Disable all</li>
