@@ -24,7 +24,7 @@ We’re almost to the end! We've updated settings organization-wide and applied 
           <strong>Meetings</strong><p>
          Meeting template applied: None<p>
             <ul>
-              <li>Something here Enabled</ul>
+              <li>No changes to default settings</ul>
 <strong>Calling</strong><p>
           User calling template applied: None<p>
           Webex App calling template applied: None
@@ -36,7 +36,7 @@ We’re almost to the end! We've updated settings organization-wide and applied 
               <li>Voicemail: All settings: Disabled</li></ul>
             </ul>
           <strong>Messaging: Collaboration Restrictions</strong><p>
-          Messaging calling template applied: None<p>
+          Messaging template applied: None<p>
               <ul>
               <li>Animated GIFs, Bitmoji stickers, and previewing links: Enabled</li></ul>
             </ul>
@@ -60,14 +60,68 @@ We’re almost to the end! We've updated settings organization-wide and applied 
         <strong>General</strong><p>
           General template applied: PPS Contractors</p>
            <ul>
-              <li>Messaging: Space summaries: Disabled</li></ul></ul>
+              <li><strong>Messaging</strong>: Space summaries: Disabled</li></ul></ul>
               <ul>
-              <li> Meetings: All features disabled</li></ul>
+              <li> <strong>Meetings</strong>: All features disabled</li></ul>
             </ul>
-          </li>  <strong>Meetings</strong><p>
+          </li>  <ul>
+  <li><strong>Virtual background</strong>
+    <ul>
+      <li>Allow Webex backgrounds: Enabled</li>
+      <li>All others: Disabled</li>
+      <li>Enforce virtual backgrounds for internal and external: Enabled</li>
+      <li>Allow all admin-uploaded backgrounds for internal and external: Enabled</li>
+    </ul>
+  </li>
+  <li><strong>Digital Whiteboard</strong>
+    <ul>
+      <li>Allow exporting a whiteboard as a PDF file: Disabled</li>
+    </ul>
+  </li>
+</ul><strong>Meetings</strong><p>
          Meeting template applied: PPS Contractors<p>
-            <ul>
-              <li>Something here Enabled</ul>
+   <ul>
+  <li><strong>Settings</strong>
+    <ul>
+      <li>Internal: Block all external users</li>
+      <li>External: Allow approved external sites: cisco.webex.com, temprecruiters.webex.com</li>
+    </ul>
+  </li>
+  <li><strong>Collaboration tools</strong>
+    <ul>
+      <li>Polling, Q&amp;A, Slido: Internal meeting and External meeting: Disabled</li>
+    </ul>
+  </li>
+  <li><strong>Recording</strong>
+    <ul>
+      <li>Cloud recording &amp; Local Recording: Internal meeting and External meeting: Disabled</li>
+    </ul>
+  </li>
+  <li><strong>Remote Control</strong>
+    <ul>
+      <li>Turn on remote control:
+        <ul>
+          <li>Internal meeting: Enabled</li>
+          <li>External meeting: Disabled</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Sharing</strong>
+    <ul>
+      <li>Enable Sharing: Internal and External Meeting: Enabled</li>
+      <li>Internal and External Meeting: Disabled Desktop Sharing</li>
+    </ul>
+  </li>
+  <li><strong>Telephony</strong>
+    <ul>
+      <li>Call in -  Toll: Enabled</li>
+      <li>Call back - Host only: Disabled</li>
+    </ul>
+  </li>
+</ul>
+</body>
+</html>
              <strong>Calling</strong><p>
          User calling template applied: None<p>
           Webex App calling template applied: PPS Contractors
@@ -81,10 +135,19 @@ We’re almost to the end! We've updated settings organization-wide and applied 
           <strong>Messaging: Collaboration Restrictions</strong><p>
          Messaging template applied: PPS Contractors<p>
               <ul>
-              <li>Bitmoji stickers sharing: Disabled</li></ul>
+  <li>Block file preview and download on: Enabled (all of the following)
+    <ul>
+      <li>Webex web client</li>
+      <li>iOS and Android app</li>
+      <li>Mac and Windows app</li>
+      <li>Bots</li>
+    </ul>
+  </li>
+              <li>Allow Bitmoji stickers sharing: Disabled</li></ul>
             </ul>
           </li>
-        </ul> <strong>Devices</strong></li>
+        </ul><p>
+        <strong>Devices</strong></li>
               <ul>
               <li>1 device: 9851</li></ul>
             </ul>
